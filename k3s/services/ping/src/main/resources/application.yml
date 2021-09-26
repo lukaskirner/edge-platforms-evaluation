@@ -1,0 +1,6 @@
+pong:
+  host: ${PONG_HOST:http://127.0.0.1:8080}
+
+features:
+  ping: ${FEATURE_PING_ENABLED:false}
+  pong: ${FEATURE_PONG_ENABLED:false}

@@ -1,0 +1,26 @@
+---
+RecipeFormatVersion: '2020-01-25'
+ComponentName: de.inovex.lkirner.detector
+ComponentVersion: 1.0.0
+ComponentDescription: 'A component that includes the detector service.'
+ComponentPublisher: Amazon
+ComponentDependencies:
+  aws.greengrass.DockerApplicationManager:
+    VersionRequirement: ~2.0.0
+  aws.greengrass.TokenExchangeService:
+    VersionRequirement: ~2.0.0
+ComponentConfiguration:
+  DefaultConfiguration:
+    accessControl:
+        aws.greengrass.ipc.pubsub:
+            de.inovex.lkirner.detector:pubsub:1:
+                operations: ["aws.greengrass#PublishToTopic"]
+                policyDescription: "Allows access to publish to all topics."
+                resources: ["*"]
+Manifests:
+  - Platform:
+      os: all
+    Lifecycle:
+      Run: 'docker run --rm --privileged -v /greengrass/v2:/greengrass/v2 -v /dev/bus/usb:/dev/bus/usb -p 8080:8080 -e AWS_REGION=$AWS_REGION -e SVCUID=$SVCUID -e AWS_GG_NUCLEUS_DOMAIN_SOCKET_FILEPATH_FOR_COMPONENT=$AWS_GG_NUCLEUS_DOMAIN_SOCKET_FILEPATH_FOR_COMPONENT -e AWS_CONTAINER_AUTHORIZATION_TOKEN=$AWS_CONTAINER_AUTHORIZATION_TOKEN -e AWS_CONTAINER_CREDENTIALS_FULL_URI=$AWS_CONTAINER_CREDENTIALS_FULL_URI 661407315395.dkr.ecr.eu-central-1.amazonaws.com/thesis-detector:latest'
+    Artifacts:
+      - URI: 'docker:661407315395.dkr.ecr.eu-central-1.amazonaws.com/thesis-detector:latest'

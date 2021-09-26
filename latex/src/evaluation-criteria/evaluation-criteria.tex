@@ -1,0 +1,44 @@
+\chapter{Evaluation criteria}\label{chap:evaluation-criteria}
+This chapter represents the criteria for the evaluation after the use case implementation in each edge computing platform. The order of the evaluation criteria is irrelevant. Some criteria maybe weighted differently depending on the use case and the specific needs of each project. At the end of this thesis, the evaluation will be based on a single use case for simplicity, but the criteria will be assessed as objectively as possible.
+
+\subsubsection*{Access to peripheral devices}
+In some cases access to peripheral devices is required to collect/send data to e.g. an attached camera, sensor or even hardware for accelerating computation like GPUs or TPUs for machine learning tasks. Therefore, the Platform should allow its nodes to access certain peripheral devices. In addition, there needs to be an option to target a specific edge node for an application deployment to meet requirements like the use of an TPU.
+
+\subsubsection*{Data Persistence}
+The generated data also needs to be stored, whether it is the produced data by e.g. sensors or the results of any local computation tasks. It’s also important to securely store the data. This includes encryption and redundancy. Redundancy is required to build robust \gls{IoT} applications, since every data storage outage can bring the complete application offline.
+
+\subsubsection*{Development Environment}
+The developers should be capable of running a smaller local development environments for testing, debugging and new feature implementation. Preferred a virtual environment which can be dynamically adjusted to prevent setting up a mirror of the full system.
+
+\subsubsection*{Extensibility} 
+Depending on use case, it is sometimes required to add new devices over time. Some reason could be a replacement of a worn out device or the extension of the existing system \cite{Shi2016b}.
+
+\subsubsection*{Offline capability}
+Sometimes edge computing is not just about moving the computation near to the user/devices, in some cases it is also about operating normally without reliable internet connection or even completely without any connection. For that, the edge platforms should operate normally without a stable or even without any connection. In addition, it should be noted whether the initial setup process needs a connection or not.
+
+\subsubsection*{Cloud connectivity}
+Integrated cloud connectivity could be advantageous for some use cases. Examples are things like sending locally computed data to the cloud for further analysis or monitoring.
+
+\subsubsection*{Service Differentiation}
+Some services may have different priorities depending on their purpose. For example, critical services such as things diagnosis and failure alarm should be processed earlier than ordinary services \cite{Shi2016b}. Critical services are determined by the use case and differ from use case to use case.
+
+\subsubsection*{Reliability}
+Reliability on the edge is a different challenge because more failures can occur. Failure can be more than just the application is repeatedly crashing. Additional failures can be worn out components, connection lose, power cord cut, battery outage and so on. To prevent failures, monitoring can be a benefit. The monitoring should include status information about any component in the system and network. Also, testing the data quality can be used to detect failures early for predictive maintenance \cite{Shi2016b}.
+
+\subsubsection*{Security}
+Focuses on the use of common encryption technologies or generally common solutions for IT security. Difficult to evaluate, so the basic things are discussed here. Examples would be the use of encryption technologies like \gls{TLS} and access control mechanisms. The focus should be on what encryption technologies are supported and used out of the box.
+
+\subsubsection*{Real-time capability}
+Real-time in this context is meant to provide low latency device to device or service to service communication, not the real-time of \gls{RTOS} systems. Some edge computing platform provide a built-in messaging solution to enable services to communicate with each other. These built-in solution should be evaluated about their overall latency and their capability of sending and delivering messages near real time. For this work we define near real time by means of an example. The example includes a camera as \gls{IoT} device. If this camera captures 30 \gls{FPS} the time until a response must be present is 33.33 milliseconds (\( \frac{1000ms}{30} = 33.33ms \)). By increasing captured frames per second to 60 \gls{FPS} the necessary response time decreases to 16.67ms (\( \frac{1000ms}{60} = 16.67ms \)). In summary, the near real time is defined so that a response is available before the next message arrives for processing.
+
+\subsubsection*{Performance}
+Edge devices are mostly not high-end power houses, on the contrary they are mostly very slow compared to virtual machines in the cloud. Therefore, edge platforms are restricted to less computational power than in the cloud. Besides the core platform services, the edge platform needs to provide enough resources to run the services for its use case. In general each edge platform should use as few resources as possible. More computing capacity left over logically means more resources are available for processing data.
+
+\subsubsection*{Distributing workload}
+Some services may not be intended for only one specific device, but can be run on multiple devices at the same time to reduce overall load. The platform should support the distribution of workload to its nodes. 
+
+\subsubsection*{Energy Consumption}
+In some cases a permanent power supply is not guaranteed, therefore a low power consumption of the overall system is an advantage.
+
+\subsubsection*{Cost}
+Won't cover the hardware cost because this is very individual to each use case or company. Costs are difficult to calculate because many individual projects of different sizes are created here. Therefore, this criterion only considers what needs to be taken into account in a cost calculation compared to, for example, a cloud infrastructure. For example potential cloud fees will be covered here.

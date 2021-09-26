@@ -1,0 +1,10 @@
+---
+apiVersion: iofog.org/v2
+kind: Agent
+metadata:
+  name: agent-1
+spec:
+  host: 192.168.178.151
+  ssh:
+    user: ubuntu
+    keyFile: ./keys/id_rsa

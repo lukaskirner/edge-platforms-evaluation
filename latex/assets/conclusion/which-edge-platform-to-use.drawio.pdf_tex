@@ -1,0 +1,78 @@
+%% Creator: Inkscape 1.1 (c4e8f9e, 2021-05-24), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'which-edge-platform-to-use.drawio.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{510.75bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,1.5866373)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{which-edge-platform-to-use.drawio.pdf}}%
+    \put(0.73421439,0.4948605){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Cloud Support?\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{which-edge-platform-to-use.drawio.pdf}}%
+    \put(0.85168869,0.02496329){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}ioFog\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{which-edge-platform-to-use.drawio.pdf}}%
+    \put(0.49926579,0.02496329){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}AWS Greengrass Core\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{which-edge-platform-to-use.drawio.pdf}}%
+    \put(0.57268722,0.25991189){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Vendor Lock?\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{which-edge-platform-to-use.drawio.pdf}}%
+    \put(0.14684288,0.02496329){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}k3s\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{which-edge-platform-to-use.drawio.pdf}}%
+    \put(0.82232012,1.46402349){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Inter Node communication?\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{which-edge-platform-to-use.drawio.pdf}}%
+    \put(0.82232012,1.36123348){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Deploy certain apps to spe...\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{which-edge-platform-to-use.drawio.pdf}}%
+    \put(0.82232012,1.25844347){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Store data permanently\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{which-edge-platform-to-use.drawio.pdf}}%
+    \put(0.80763583,0.39207048){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}No\end{tabular}}}}%
+    \put(0.61674009,0.39207048){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Yes\end{tabular}}}}%
+    \put(0.54331865,0.09838473){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Yes\end{tabular}}}}%
+    \put(0.70484581,0.15712188){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}No\end{tabular}}}}%
+  \end{picture}%
+\endgroup%

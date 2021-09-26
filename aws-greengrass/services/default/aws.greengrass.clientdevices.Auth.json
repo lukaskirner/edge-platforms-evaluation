@@ -1,0 +1,24 @@
+{
+    "deviceGroups": {
+      "formatVersion": "2021-03-05",
+      "definitions": {
+        "MyDeviceGroup": {
+          "selectionRule": "thingName: *",
+          "policyName": "MyPermissivePolicy"
+        }
+      },
+      "policies": {
+        "MyPermissivePolicy": {
+          "AllowAll": {
+            "statementDescription": "Allow client devices to perform all actions.",
+            "operations": [
+              "*"
+            ],
+            "resources": [
+              "*"
+            ]
+          }
+        }
+      }
+    }
+}

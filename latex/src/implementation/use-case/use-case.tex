@@ -1,0 +1,14 @@
+\section{Use case}
+In order to be able to carry out an evaluation of the three selected platforms, a specific application is built as identically as possible in all platforms. The chosen use case should represent a facility with different services. The system to be implemented only represents a subsystem of these services. This subsystem should contain a kind of emergency service which responds to certain emergency scenarios like increased temperature or gas detection by enabling/disabling ventilation devices. Also the monitoring of entire system should be given by collecting, storing and visualize all produced data. This subset is chosen to show different kinds of workloads and how each platform will handle it. To get a better overview of the given platform, mainly built-in features should be used, if possible.
+
+\bigskip
+The following figure \ref{fig:use-case-overview} shows the context view of each edge platform and the supporting systems around it. The blue block in figure \ref{fig:use-case-overview} represents one of the three edge platforms which gets implemented in later sections. The purple block represents the optional cloud support. The gray blocks refer to sensors and actors which produce or consume data from the connected edge platform. User interaction is also given by either the edge platform itself or the optional cloud environment.
+
+\begin{figure}[H]
+    \centering
+    \fontsize{8}{10}\selectfont
+    \def\svgwidth{\textwidth}
+    \input{assets/use-case/architectural-overview.drawio.pdf_tex}
+    \caption{Use case system overview.}
+    \label{fig:use-case-overview}
+\end{figure}

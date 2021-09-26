@@ -1,0 +1,88 @@
+%% Creator: Inkscape 1.1 (c4e8f9e, 2021-05-24), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'aws-greengrass-arch.drawio.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{690.75bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.59574978)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{aws-greengrass-arch.drawio.pdf}}%
+    \put(0.68403909,0.57620581){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Greengrass Core Devices\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{aws-greengrass-arch.drawio.pdf}}%
+    \put(0.68403909,0.53277475){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}AWS provided components\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{aws-greengrass-arch.drawio.pdf}}%
+    \put(0.51031488,0.42419712){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Nucleus\end{tabular}}}}%
+    \put(0.59717698,0.42419712){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}MQTT\end{tabular}}}}%
+    \put(0.59717698,0.40899625){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}broker\end{tabular}}}}%
+    \put(0.68403909,0.42419712){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}MQTT\end{tabular}}}}%
+    \put(0.68403909,0.40899625){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}bridge\end{tabular}}}}%
+    \put(0.77090119,0.42419712){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Auth\end{tabular}}}}%
+    \put(0.8577633,0.42419712){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}IP detector\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{aws-greengrass-arch.drawio.pdf}}%
+    \put(0.03474484,0.57512003){\color[rgb]{0.1372549,0.18431373,0.24313725}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}AWS Cloud\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{aws-greengrass-arch.drawio.pdf}}%
+    \put(0.68403909,0.34819278){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Custom components\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{aws-greengrass-arch.drawio.pdf}}%
+    \put(0.59717698,0.22875738){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Emergency function\end{tabular}}}}%
+    \put(0.77090119,0.22875738){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Detector service\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{aws-greengrass-arch.drawio.pdf}}%
+    \put(0.1194354,0.41333936){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Greengrass\end{tabular}}}}%
+    \put(0.1194354,0.39813849){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}cloud service\end{tabular}}}}%
+    \put(0.1194354,0.23527204){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}AWS IoT Core\end{tabular}}}}%
+    \put(0.48859935,0.00074435){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}BMP280 sensor\end{tabular}}}}%
+    \put(0.61889251,0.00074435){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}MQ2 sensor\end{tabular}}}}%
+    \put(0.74918567,0.00074435){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Camera sensor\end{tabular}}}}%
+    \put(0.87947883,0.00074435){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Ventilation actor\end{tabular}}}}%
+    \put(0.30401737,0.44591265){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Deploy\end{tabular}}}}%
+    \put(0.30401737,0.43071178){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}components\end{tabular}}}}%
+    \put(0.30401737,0.26784533){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}MQTT\end{tabular}}}}%
+    \put(0.30401737,0.25264446){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}messaging\end{tabular}}}}%
+  \end{picture}%
+\endgroup%

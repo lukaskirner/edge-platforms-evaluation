@@ -1,0 +1,22 @@
+image:
+  repository: docker.io/library/telegraf
+  tag: 1.18.2
+config:
+  inputs:
+    - mqtt_consumer:
+        servers: ["tcp://elb-emqx-service.mqtt.svc.cluster.local:1883"]
+        topics: ["sensor/#", "actors/#"]
+        client_id: "telegraf-sensors-actors"
+        data_format: "json"
+        json_strict: true
+    - mqtt_consumer:
+        servers: ["tcp://elb-emqx-service.mqtt.svc.cluster.local:1883"]
+        topics: ["ventilation/#"]
+        client_id: "telegraf-ventilation"
+        data_format: "value"
+        data_type: "boolean"
+  outputs:
+    - influxdb:
+        urls:
+          - "http://influxdb:8086"
+        database: "telegraf"

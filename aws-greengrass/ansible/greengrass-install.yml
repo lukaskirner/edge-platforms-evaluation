@@ -1,0 +1,9 @@
+---
+- hosts: devices
+  become: true
+  roles:
+    - role: prereq
+    - role: download
+    - role: install
+
+# Source: https://docs.aws.amazon.com/greengrass/v2/developerguide/quick-installation.html

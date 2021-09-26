@@ -1,0 +1,19 @@
+{
+    "mqttTopicMapping": {
+      "SensorMapping": {
+        "source": "LocalMqtt",
+        "target": "Pubsub",
+        "topic": "sensor/#"
+      },
+      "ActorMapping": {
+        "source": "Pubsub",
+        "target": "IotCore",
+        "topic": "actor/#"
+      },
+      "ActorMappingLocalMqtt": {
+        "source": "Pubsub",
+        "target": "LocalMqtt",
+        "topic": "actor/#"
+      }
+    }
+}

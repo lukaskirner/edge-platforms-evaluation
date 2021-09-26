@@ -1,0 +1,46 @@
+\chapter{Basics}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{MQTT}
+\gls{MQTT} was developed by Stanford-Clark of IBM and Arlen Nipper of Arcom Control Systems Ltd (Eurotech) in 1999. It is one of the oldest machine to machine communication protocols. It is a publish/subscribe model for lightweight communications between devices \cite{Naik2017}. A \gls{MQTT} setup consists of two components. A broker, in the standard referred to as “server”, which acts as a bridge between the publishers and the subscribers and a \gls{MQTT} client which acts as publisher, subscriber or both \cite{OASIS2019} \cite{Naik2017} \cite{Bandyopadhyay2013}. Figure \ref{fig:mqtt-architecture} shows a basic architecture of one broker, one publisher and a subscriber which can also publish messages. Messages, produced by the publisher, are sent to the broker. Every message is published to an address known as topics. Topics use a hierarchical structure. The Subscribers can subscribe to one or more of these topics to receive published messages \cite{Bandyopadhyay2013}.
+
+\begin{figure}[H]
+    \fontsize{9}{10}\selectfont
+    \centering
+    \def\svgwidth{\textwidth}
+    \input{assets/basics/MQTT.pdf_tex}
+    \caption{Basic MQTT architecture.}
+    \label{fig:mqtt-architecture}
+\end{figure}
+
+Each Subscriber can define a \gls{QoS} level on their subscription to a topic. The different QoS levels determine the reliability of receiving messages as subscriber \cite{OASIS2019}. The three quality of service levels (\gls{QoS}) for delivering messages are: \cite{OASIS2019} 
+
+\begin{itemize}
+    \item \textbf{QoS 0:} At most once, will send the message only once without any acknowledgement. Messages may not arrive.
+    \item \textbf{QoS 1:} At least once, ensures the message is received at least once by the subscriber. Duplicates are possible.
+    \item \textbf{QoS 2} Exactly once, ensures the message will be received exactly once by the subscriber. No Duplicates compared to QoS 1.
+\end{itemize}
+
+The \gls{MQTT} protocol uses TCP with optional TLS/SSL, for security, as a transport protocol. It is also possible to establish a connection with WebSockets \cite{OASIS2019}. The transferred data is in binary format and is capped to a maximum payload size of 256 megabytes \cite{Naik2017}.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Container}
+A container is a unit of software that packages code and all its dependencies to run quickly and reliably on any computing environment \cite{dockerWhatDocker}. Each container needs a runtime to run on. There are different container runtimes available out there. Runtimes like Docker or the containerd, which was split off from Docker, let the developer run container images by unpacking them and starting the process \cite{Lewis2018}.
+
+\bigskip
+On the 22nd of June in 2015 leaders of the container industry like Docker, CoreOS and others established the \gls{OCI} a lightweight, open governance structure (project), formed under the auspices of the Linux Foundation, for the express purpose of creating open industry standards in the container format and runtime environment. A cornerstone was laid by Docker upon contributing its own container format and runtime, runC, to the \gls{OCI} \cite{TheLinuxFoundation}. Currently, there are two specifications available: \cite{TheLinuxFoundation}
+\begin{itemize}
+    \item Image Specification (image-spec): specifies how the image is structured
+    \item Runtime Specification (runtime-spec): specifies how to run a “filesystem bundle” (image) that is unpacked on disk
+\end{itemize}
+
+\bigskip
+Container orchestration systems like Kubernetes can then be used to serve fleets of containers which get automatically deployed, scaled and managed by a container orchestrator \cite{TheKubernetesAuthors}.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Cloud Computing}
+Cloud computing is shaping the IT Industry by how hardware is designed and purchased. For example developers, start-ups or companies can come up with a great idea and won't be required to buy hardware to run their idea. There is no need for a large capital to invest into hardware and no need of operating and maintaining the hardware. The fact of over-provisioning or under-provisioning is also eliminated, as cloud computing can be scaled according to demand and without any upfront investment \cite{Armbrust2010}. Today public cloud providers like \gls{AWS}, Microsoft Azure or \gls{GCP} offer the pay-as-you-go pricing model where you only pay the resources you are really using \cite{AWSWhatComputing} \cite{MicrosoftWhatAzure} \cite{GoogleCloudCloud}. This pricing model then allows ideas to be implemented without the need of a large capital like what was previously mentioned.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Internet of Things}
+The term \gls{IoT} was first mentioned by Kevin Ashton in 1999 in the context of supply chain management \cite{ashton2009internet}. However, in the past decades, the definition has been evolved to cover a wide range of applications like healthcare, utilities, transport, etc. \cite{Lee2015}. Like the problem chapter \ref{chap:problem} already introduced the raising amount of \gls{IoT} devices across the world shows big interest in this paradigm. \gls{IoT} is about a technology paradigm of a global network where devices are connected with each other. The devices are capable of interacting inside this network with other devices \cite{Lee2015}. These devices are mostly very small and have the ability to sense, compute, and communicate wirelessly in short distances. Today they are used in a wide range of applications like in environmental monitoring, infrastructure monitoring, traffic monitoring, retail and more. Cloud computing will then receive these data for further processing or other processes \cite{Gubbi2013}. In the edge computing context, \gls{IoT} devices connect to the edge computing platform and not to the cloud computing platform for further processing the produced data.

@@ -1,0 +1,17 @@
+{
+    "name": "ThesisEdge",
+    "description": "Library to connect to a local edge platform (for Master Thesis)",
+    "frameworks": ["arduino"],
+    "dependencies": [
+        {
+            "owner": "knolleary",
+            "name": "PubSubClient",
+            "version": "^2.8"
+        },
+        {
+            "owner": "bblanchon",
+            "name": "ArduinoJson",
+            "version": "^6.18.0"
+        }
+    ]
+}

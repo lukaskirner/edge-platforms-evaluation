@@ -1,0 +1,24 @@
+---
+- name: Stop greengrass
+  ansible.builtin.systemd:
+    name: greengrass
+    state: stopped
+
+- name: Remove greengrass.service file
+  ansible.builtin.file:
+    path: /etc/systemd/system/greengrass.service
+    state: absent
+
+- name: daemon-reload to pick up config changes
+  ansible.builtin.systemd:
+    daemon_reload: yes
+
+- name: Remove greengrass files
+  ansible.builtin.file:
+    path: /greengrass/v2
+    state: absent
+
+- name: Remove core device from AWS Cloud (runs locally)
+  delegate_to: localhost
+  become: false
+  shell: aws greengrassv2 delete-core-device --core-device-thing-name {{ node_name }}

@@ -1,0 +1,17 @@
+---
+RecipeFormatVersion: '2020-01-25'
+ComponentName: de.inovex.lkirner.redis
+ComponentVersion: '1.0.0'
+ComponentDescription: 'A component that includes the redis service.'
+ComponentPublisher: Amazon
+ComponentDependencies:
+  aws.greengrass.DockerApplicationManager:
+    VersionRequirement: ~2.0.0
+Manifests:
+  - Platform:
+      os: all
+    Lifecycle:
+        Run: docker-compose -f {artifacts:path}/redis-compose.yaml up
+    Artifacts:
+      - URI: "s3://de.inovex.lkirner.ggc.services/redis-compose.yaml"
+      - URI: "docker:redis:alpine3.14"

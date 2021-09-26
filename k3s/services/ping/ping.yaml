@@ -1,0 +1,57 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: pong-service
+  namespace: default
+  labels:
+    app: pong-service
+spec:
+  ports:
+    - name: pong
+      port: 8080
+      protocol: TCP
+      targetPort: 8080
+  selector:
+    app: pong
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: ping
+  namespace: default
+  labels:
+    app: ping
+spec:
+  containers:
+    - name: ping
+      image: registry.inovex.de:4567/lkirner/edge-platforms-evaluation/k3s-ping:latest
+      imagePullPolicy: Always
+      env:
+        - name: PONG_HOST
+          value: "http://pong-service.default.svc.cluster.local:8080"
+        - name: FEATURE_PING_ENABLED
+          value: "true"
+  nodeSelector:
+    kubernetes.io/hostname: "node1"
+  imagePullSecrets:
+    - name: gitlab-pull-secrets
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pong
+  namespace: default
+  labels:
+    app: pong
+spec:
+  containers:
+    - name: pong
+      image: registry.inovex.de:4567/lkirner/edge-platforms-evaluation/k3s-ping:latest
+      imagePullPolicy: Always
+      env:
+        - name: FEATURE_PONG_ENABLED
+          value: "true"
+  nodeSelector:
+    kubernetes.io/hostname: "node2"
+  imagePullSecrets:
+    - name: gitlab-pull-secrets

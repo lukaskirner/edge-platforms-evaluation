@@ -1,0 +1,23 @@
+image:
+  repository: docker.io/grafana/grafana
+  tag: 8.0.6
+ingress:
+  enabled: true
+  hosts: ["monitor.edge.home"]
+persistence:
+  enabled: true
+datasources:
+  datasources.yaml:
+    apiVersion: 1
+    datasources:
+      - name: Prometheus
+        type: prometheus
+        access: proxy
+        orgId: 1
+        url: http://prometheus-server.monitoring.svc.cluster.local
+      - name: InfluxDB
+        type: influxdb
+        access: proxy
+        orgId: 1
+        url: http://influxdb.timeseries.svc.cluster.local:8086
+        database: "telegraf"

@@ -1,0 +1,22 @@
+---
+RecipeFormatVersion: '2020-01-25'
+ComponentName: de.inovex.lkirner.ping
+ComponentVersion: 1.0.0
+ComponentDescription: 'A component that includes the ping service.'
+ComponentPublisher: Amazon
+ComponentConfiguration:
+  DefaultConfiguration:
+    accessControl:
+        aws.greengrass.ipc.pubsub:
+            de.inovex.lkirner.ping:pubsub:1:
+                operations: ["aws.greengrass#PublishToTopic"]
+                policyDescription: "Allows access to publish to all topics."
+                resources: ["*"]
+Manifests:
+  - Platform:
+        os: all
+    Lifecycle:
+        Install: 'pip3 install awsiotsdk'
+        Run: 'python3 {artifacts:path}/ping.py'
+    Artifacts:
+        - URI: 's3://de.inovex.lkirner.ggc.services/ping.py'

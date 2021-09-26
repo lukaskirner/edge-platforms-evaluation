@@ -1,0 +1,6 @@
+. {
+    log
+    errors
+    forward . 1.1.1.1
+    file /zones/db.edge.home edge.home
+}

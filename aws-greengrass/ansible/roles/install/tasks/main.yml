@@ -1,0 +1,23 @@
+---
+- name: Install Greengrass Core
+  environment:
+      AWS_ACCESS_KEY_ID: "{{ lookup('env', 'THESIS_EC_AWS_ACCESS_KEY_ID') }}"
+      AWS_SECRET_ACCESS_KEY: "{{ lookup('env', 'THESIS_EC_AWS_SECRET_ACCESS_KEY') }}"
+  shell: |
+    java -Droot="/greengrass/v2" -Dlog.store=FILE \
+      -jar /home/{{ ansible_user }}/GreengrassCore/lib/Greengrass.jar \
+      --aws-region eu-central-1 \
+      --thing-name {{ node_name }} \
+      --thing-group-name ThesisEdgeComputing \
+      --tes-role-name GreengrassV2DeviceRole \
+      --tes-role-alias-name GreengrassV2DeviceRoleAlias \
+      --component-default-user ggc_user:ggc_group \
+      --provision true \
+      --deploy-dev-tools true \
+      --setup-system-service true
+
+- name: Add ggc_user to docker group
+  shell: usermod -aG docker ggc_user
+
+- name: Add ggc_user to plugdev group
+  shell: usermod -aG plugdev ggc_user

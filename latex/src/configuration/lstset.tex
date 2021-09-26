@@ -1,0 +1,28 @@
+\lstdefinelanguage{HTML5}{
+    language=html,
+    sensitive=true, 
+    alsoletter={<>=-},
+    otherkeywords={
+    % HTML tags
+    <html>, <head>, <title>, </title>, <meta, />, </head>, <body>,
+    <canvas, \/canvas>, <script>, </script>, </body>, </html>, <!, html>, <style>, </style>, ><
+    },  
+    ndkeywords={
+    % General
+    =,
+    % HTML attributes
+    charset=, id=, width=, height=,
+    % CSS properties
+    border:, transform:, -moz-transform:, transition-duration:, transition-property:, transition-timing-function:
+    },  
+    morecomment=[s]{<!--}{-->},
+    tag=[s]
+}
+
+\lstdefinelanguage{CSS}{
+    morekeywords={color,background,margin},
+    sensitive=false,
+    morecomment=[l]{//},
+    morecomment=[s]{/*}{*/},
+    morestring=[b]",
+}

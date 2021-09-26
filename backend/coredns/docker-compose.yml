@@ -1,0 +1,9 @@
+version: '3'
+services:
+  coredns:
+    image: thesis-coredns:latest
+    restart: always
+    ports:
+      - "127.0.0.1:53:53/tcp"
+      - "127.0.0.1:53:53/udp"
+

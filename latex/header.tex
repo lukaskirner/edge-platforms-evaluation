@@ -1,0 +1,237 @@
+%-------------------------------------------------------------------------------
+% Packages
+%-------------------------------------------------------------------------------
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{csquotes}
+\usepackage{scrhack}
+\usepackage{xcolor, colortbl} 
+\definecolor{LightGray}{gray}{0.85}
+\usepackage{float} % image positon H
+
+%-------------------------------------------------------------------------------
+% biblatex
+%-------------------------------------------------------------------------------
+\usepackage[backend=biber,style=numeric]{biblatex}
+\addbibresource{library.bib}
+
+\usepackage{url}
+\usepackage[
+  hidelinks,
+  bookmarksnumbered,
+  % unicode,
+  % colorlinks
+]{hyperref}
+
+% correct urls in .bib
+\DeclareSourcemap{ % Used when .bib/Bibliography is compiled, not when document is
+  \maps{
+    \map{ % Replaces '{\_}', '{_}' or '\_' with just '_'
+      \step[fieldsource=url,
+        match=\regexp{\{\\\_\}|\{\_\}|\\\_},
+        replace=\regexp{\_}]
+    }
+    \map{ % Replaces '{'$\sim$'}', '$\sim$' or '{~}' with just '~'
+      \step[fieldsource=url,
+        match=\regexp{\{\$\\sim\$\}|\{\~\}|\$\\sim\$},
+        replace=\regexp{\~}]
+    }
+    \map{ % Replaces '{\$}'
+      \step[fieldsource=url,
+        match=\regexp{\{\\\x{26}\}},
+        replace=\regexp{\x{26}}]
+    }
+  }
+}
+
+% figure
+\usepackage[
+  caption = false,
+  font    = footnotesize
+]{subfig}
+\usepackage{graphicx}
+\usepackage{pgfplots}
+\usepackage{pgfplotstable}
+\tikzset{>=stealth}
+\usetikzlibrary{patterns}
+\usetikzlibrary{pgfplots.statistics}
+% \usepackage{packages/tikz-uml}
+% \tikzumlset{
+%   fill object = white,
+%   call dt = 5
+% }
+
+\usepackage[
+  underline=false,
+  shadow=false
+]{packages/pgf-umlsd}
+
+% code block insertion
+\usepackage{moreverb}
+\usepackage{listings}
+
+% math and equations
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{upgreek}
+
+% table
+\usepackage{tabularx}
+\usepackage{multirow}
+\usepackage{threeparttable}
+\newcolumntype{a}{>{\columncolor{LightGray}}s}
+\newcommand{\mc}[2]{\multicolumn{#1}{s|}{#2}}
+\newcommand{\cellH}{\cellcolor{red}}
+\newcommand{\cellL}{\cellcolor{blue}\color{white}}
+\newcommand{\cw}{\color{white}}
+\usepackage{array,booktabs}
+\renewcommand\tabularxcolumn[1]{m{#1}} % center Text in columnw
+
+% image path
+\graphicspath{
+    {assets/}
+    {assets/problem/}
+    {assets/basics/}
+    {assets/edge-computing/}
+    {assets/use-case/}
+    {assets/setup/}
+    {assets/k3s/}
+    {assets/aws-greengrass/}
+    {assets/iofog/}
+    {assets/evaluation/}
+    {assets/conclusion/}
+}
+
+% svg support (requires inkscape)
+\usepackage{svg}
+
+% parnotes
+\usepackage{parnotes}
+
+% rotate boxes
+\usepackage{adjustbox}
+
+% enumeration
+\usepackage{enumerate}
+
+% Line Breaks
+\sloppy
+ 
+%-------------------------------------------------------------------------------
+% chapter page styling
+%-------------------------------------------------------------------------------
+\renewcommand*{\chapterformat}{\thechapter\enskip\textcolor{inovexBlue}{\rule[-\dp\strutbox]{2pt}{\baselineskip}}\enskip}
+\renewcommand*{\sectionformat}{\thesection\enskip\textcolor{inovexBlue}{\rule[-\dp\strutbox]{2pt}{\baselineskip}}\enskip}
+\renewcommand*{\subsectionformat}{\thesubsection\enskip\textcolor{inovexBlue}{\rule[-\dp\strutbox]{2pt}{\baselineskip}}\enskip}
+\setkomafont{disposition}{\normalcolor\bfseries}
+
+\usepackage{scrlayer-scrpage}
+\pagestyle{scrheadings}
+% \clearpairofpagestyles # <---- TODO: kills specific Page Number styling 
+\automark[chapter]{chapter}
+\lefoot{\textbf{\pagemark}\enskip\textcolor{inovexBlue}{\rule[-\dp\strutbox]{2pt}{\baselineskip}}\enskip\textcolor{inovexBlue}{\headmark}}
+\rofoot{\textcolor{inovexBlueLighter80}{\headmark}\enskip\textcolor{inovexBlue}{\rule[-\dp\strutbox]{2pt}{\baselineskip}}\enskip\textbf{\pagemark}}
+
+% Footnote styling
+\renewcommand{\footnoterule}{\kern-3pt {\color{inovexBlue} \hrule width 2in} \kern 2.6pt}
+\DeclareCaptionLabelSeparator{pipe}{ \rule[-\dp\strutbox]{2pt}{\baselineskip} }
+\captionsetup{labelsep=pipe}
+
+% Source code with highlighting
+\usepackage{listings}
+\input{src/configuration/lstset.tex}
+\lstset{
+    frame            = l,
+	framerule        = 2pt,
+	rulecolor        = \color{inovexBlue},
+    basicstyle       = \footnotesize,
+    captionpos       = b,
+    tabsize          = 4,
+    numberstyle      = \tiny\color{inovexGrayDarker},
+    commentstyle     = \color{inovexGreen},
+    keywordstyle     = \color{inovexBlue},
+    stringstyle      = \color{inovexOrange},
+    otherkeywords    = {
+        uint64_t,
+        uint32_t,
+        uint16_t,
+        uint8_t,
+        u64,
+        u32,
+        u16,
+        u8,
+        inline
+    },
+    numbers          = left,
+    aboveskip        = 4ex,
+    abovecaptionskip = 2ex,
+    breaklines       = true,
+    breakatwhitespace= true,
+    postbreak        = \mbox{\textcolor{inovexBlue}{$\hookrightarrow$}\space},
+}
+
+% Support for siunitx
+\usepackage{siunitx}
+\sisetup{
+  exponent-product = \cdot,
+  output-product   = \cdot,
+  per-mode         = symbol-or-fraction,
+  quotient-mode    = fraction,
+  binary-units     = true
+}
+
+% No widows and orphans
+\usepackage[all]{nowidow}
+
+% dummy text
+\usepackage{blindtext}
+
+% If hyperref is used, references to tables and figures link to their captions
+% and not the actual tables or figures. This is especially unwanted for figures,
+% because their captions are below the figure so that clicking on a link just
+% shows the captions and the figure is invisible.
+%
+% Using the caption package fixes this behaviour.
+\usepackage{caption}
+
+% glossary functionality
+% loading glossaries after hyperref adds hyperlings to acronyms and glossary
+% entries
+\usepackage[acronym, toc]{glossaries}
+
+
+%-------------------------------------------------------------------------------
+% colors for PGF
+%-------------------------------------------------------------------------------
+\definecolor{grey60} {RGB} {102, 102, 102} % 60% grey
+
+%-------------------------------------------------------------------------------
+% Default values for pgfplots
+%-------------------------------------------------------------------------------
+\newcommand{\figureHeight}{0.5625} %% 16:9
+\pgfplotsset{
+  compat           = 1.13,
+  grid             = major,
+  enlarge x limits = 0,
+  cycle list name  = inovex,
+  major grid style = {dotted},
+  minor grid style = {dotted},
+  legend style     = {
+    at     = {(0.98,0.96)},
+    anchor = north east,
+  },
+  width            = \hsize * 0.9,
+  height           = \hsize * 0.9 * \figureHeight,
+}
+
+%-------------------------------------------------------------------------------
+% Correct paragraph indent
+%-------------------------------------------------------------------------------
+\setlength{\parindent}{0ex}
+
+%-------------------------------------------------------------------------------
+% Correct bad hyphenation here
+%-------------------------------------------------------------------------------
+\hyphenation{op-tical net-works semi-conduc-tor}

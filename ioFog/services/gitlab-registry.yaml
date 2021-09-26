@@ -1,0 +1,10 @@
+---
+apiVersion: iofog.org/v2
+kind: Registry
+spec:
+  url: registry.inovex.de:4567
+  email: lkirner@inovex.de
+  username: ioFog
+  password: <GITLAB_REGISTRY_TOKEN>
+  private: false
+

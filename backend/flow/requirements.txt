@@ -1,0 +1,8 @@
+scipy
+numpy
+seaborn
+notebook
+pandas
+matplotlib
+scikit-learn
+paho-mqtt

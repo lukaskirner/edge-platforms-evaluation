@@ -1,0 +1,106 @@
+---
+apiVersion: iofog.org/v2
+kind: Volume
+spec:
+  name: secret
+  source: ./config/
+  destination: /tmp/config/
+  permissions: 666
+  agents:
+    - agent-1
+    - agent-2
+---
+apiVersion: iofog.org/v2
+kind: Application
+metadata:
+  name: monitoring
+spec:
+  microservices:
+    - name: grafana
+      agent:
+        name: agent-1
+      config: {}
+      images:
+        arm: docker.io/grafana/grafana:8.0.6
+        registry: remote
+      container:
+        volumes: []
+        ports:
+          - internal: 80
+            external: 8080
+            public: 8081
+        env: []
+
+    - name: influxdb
+      agent:
+        name: agent-1
+      config: {}
+      images:
+        arm: docker.io/library/influxdb:2.0.7
+        registry: remote
+      container:
+        volumes: []
+        ports:
+          - internal: 8086
+            external: 8086
+        env:
+          - key: DOCKER_INFLUXDB_INIT_MODE
+            value: setup
+          - key: DOCKER_INFLUXDB_INIT_USERNAME
+            value: admin
+          - key: DOCKER_INFLUXDB_INIT_PASSWORD
+            value: 48firjkvj84rkj4rf # <-- random head rolling on keyboard
+          - key: DOCKER_INFLUXDB_INIT_ORG
+            value: my-org
+          - key: DOCKER_INFLUXDB_INIT_BUCKET
+            value: default
+
+    - name: telegraf
+      agent:
+        name: agent-1
+      config: {}
+      images:
+        arm: docker.io/library/telegraf:1.18.2
+        registry: remote
+      container:
+        volumes:
+          - hostDestination: /tmp/config/telegraf.conf
+            containerDestination: /etc/telegraf/telegraf.conf
+            accessMode: 'r'
+        ports:
+          - internal: 8125
+            external: 8125
+        env:
+          - key: MQTT_HOST
+            value: tcp://192.168.178.151:1883
+          - key: INFLUX_URL
+            value: http://192.168.178.151:8086
+          - key: INFLUX_PASSWORD
+            value: 48firjkvj84rkj4rf
+          - key: INFLUX_SKIP_DATABASE_CREATION
+            value: false
+
+    - name: telegraf
+      agent:
+        name: agent-2
+      config: {}
+      images:
+        arm: docker.io/library/telegraf:1.18.2
+        registry: remote
+      container:
+        volumes:
+          - hostDestination: /tmp/config/telegraf.conf
+            containerDestination: /etc/telegraf/telegraf.conf
+            accessMode: 'r'
+        ports:
+          - internal: 8125
+            external: 8125
+        env:
+          - key: MQTT_HOST
+            value: tcp://192.168.178.152:1883
+          - key: INFLUX_URL
+            value: http://192.168.178.151:8086
+          - key: INFLUX_PASSWORD
+            value: 48firjkvj84rkj4rf
+          - key: INFLUX_SKIP_DATABASE_CREATION
+            value: false

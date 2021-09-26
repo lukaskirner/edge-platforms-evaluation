@@ -1,0 +1,7 @@
+tmp/
+.pio
+.vscode
+__pycache__/
+.DS_Store
+
+.ipynb_checkpoints/

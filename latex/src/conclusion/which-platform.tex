@@ -1,0 +1,34 @@
+\subsection*{Which platform should you choose?}\label{subsec:which-platform}
+The table \ref{tab:evaluation-matrix} below may help a developer to decide which platform suits their needs best. Some listed criteria are evaluated by the evaluation chapter \ref{chap:evaluation}. Other criteria which is not listed in the evaluation chapter \ref{chap:evaluation} are handpicked and maybe just important in some cases.
+
+
+\bigskip
+The colors in the table \ref{tab:evaluation-matrix} below have the following meaning: green indicates very good support of the corresponding platform, yellow means good to ok support, orange stands for bad support and red represents unsupported.
+
+% ---------------------------------------------------------------
+\begin{table}[H]
+\centering
+\begin{tabular}{|>{\columncolor[HTML]{CCCCCC}}r |>{\columncolor[HTML]{00FF00}}l |>{\columncolor[HTML]{00FF00}}l |l|}\hline
+\multicolumn{1}{|l|}{\cellcolor[HTML]{4A86E8}} & \multicolumn{1}{c|}{\cellcolor[HTML]{4A86E8}k3s} & \multicolumn{1}{c|}{\cellcolor[HTML]{4A86E8}AWS} & \multicolumn{1}{c|}{\cellcolor[HTML]{4A86E8}ioFog} \\ \hline
+Internode communication &  & \cellcolor[HTML]{FF9900} & \cellcolor[HTML]{FFFF00} \\ \hline
+Interservice communication &  &  & \cellcolor[HTML]{FF9900} \\ \hline
+Deploy to specific Nodes & \cellcolor[HTML]{FFFF00} & \cellcolor[HTML]{FFFF00} & \cellcolor[HTML]{00FF00} \\ \hline
+Store data permanently and reliable &  & \cellcolor[HTML]{FF9900} & \cellcolor[HTML]{FF9900} \\ \hline
+Cloud Support & \cellcolor[HTML]{FFFF00} &  & \cellcolor[HTML]{FFFF00} \\ \hline
+Offline Support &  & \cellcolor[HTML]{FF9900} & \cellcolor[HTML]{00FF00} \\ \hline
+No Vendor Lock &  & \cellcolor[HTML]{FF0000} & \cellcolor[HTML]{00FF00} \\ \hline
+Battery operation & \cellcolor[HTML]{FF9900} &  & \cellcolor[HTML]{FFFF00} \\ \hline
+Access to Hardware &  &  & \cellcolor[HTML]{00FF00} \\ \hline
+Development Environment &  & \cellcolor[HTML]{FF9900} & \cellcolor[HTML]{00FF00} \\ \hline
+Latency &  &  & \cellcolor[HTML]{FF9900} \\ \hline
+SDK's & \cellcolor[HTML]{FF0000} &  & \cellcolor[HTML]{FF9900} \\ \hline
+Cost &  & \cellcolor[HTML]{FF9900} & \cellcolor[HTML]{00FF00} \\ \hline
+Monitoring &  &  & \cellcolor[HTML]{FF9900} \\ \hline
+Big Fleet &  &  & \cellcolor[HTML]{FF9900} \\ \hline
+Extensability &  &  & \cellcolor[HTML]{00FF00} \\ \hline
+Workload distribution &  & \cellcolor[HTML]{FF0000} & \cellcolor[HTML]{FF0000} \\ \hline
+Built-in secure communication & \cellcolor[HTML]{FFFF00} &  & \cellcolor[HTML]{FF9900} \\ \hline
+\end{tabular}
+\caption{Evaluation matrix for choosing the right platform.}\label{tab:evaluation-matrix}
+\end{table}
+% ---------------------------------------------------------------

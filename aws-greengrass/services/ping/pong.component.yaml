@@ -1,0 +1,22 @@
+---
+RecipeFormatVersion: '2020-01-25'
+ComponentName: de.inovex.lkirner.pong
+ComponentVersion: 1.0.0
+ComponentDescription: 'A component that includes the pong service.'
+ComponentPublisher: Amazon
+ComponentConfiguration:
+  DefaultConfiguration:
+    accessControl:
+        aws.greengrass.ipc.pubsub:
+            de.inovex.lkirner.pong:pubsub:1:
+                operations: ["aws.greengrass#SubscribeToTopic"]
+                policyDescription: "Allows access to subscribe to all topics."
+                resources: ["*"]
+Manifests:
+  - Platform:
+        os: all
+    Lifecycle:
+        Install: 'pip3 install awsiotsdk'
+        Run: 'python3 {artifacts:path}/pong.py'
+    Artifacts:
+        - URI: 's3://de.inovex.lkirner.ggc.services/pong.py'

@@ -1,0 +1,8 @@
+iofog:
+  host: ${IOFOG_HOST:127.0.0.1}
+  port: ${IOFOG_PORT:54321}
+  containerid: ${IOFOG_CONTAINER_ID:TEST_CONTAINER_ID}
+
+features:
+  ping: ${FEATURE_PING_ENABLED:false}
+  pong: ${FEATURE_PONG_ENABLED:false}

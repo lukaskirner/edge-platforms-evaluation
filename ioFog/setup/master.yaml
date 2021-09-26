@@ -1,0 +1,17 @@
+---
+apiVersion: iofog.org/v2
+kind: ControlPlane
+metadata:
+  name: master
+spec:
+  iofogUser:
+    name: Lukas
+    surname: Kirner
+    email: lkirner@inovex.de
+    password: iht234g9afhe
+  controllers:
+  - name: master-1
+    host: 192.168.178.150
+    ssh:
+      user: ubuntu
+      keyFile: ./keys/id_rsa

@@ -1,0 +1,45 @@
+---
+apiVersion: iofog.org/v2
+kind: Application
+metadata:
+  name: ping-pong
+spec:
+  microservices:
+    - name: ping
+      agent:
+        name: agent-1
+      config: {}
+      images:
+        arm: registry.inovex.de:4567/lkirner/edge-platforms-evaluation/iofog-ping:latest
+        registry: local
+      container:
+        volumes: []
+        ports: []
+        env:
+          - key: IOFOG_HOST
+            value: iofog
+          - key: FEATURE_PING_ENABLED
+            value: true
+          - key: IOFOG_CONTAINER_ID
+            value: ping
+    - name: pong
+      agent:
+        name: agent-2
+      config: {}
+      images:
+        arm: registry.inovex.de:4567/lkirner/edge-platforms-evaluation/iofog-ping:latest
+        registry: local
+      container:
+        volumes: []
+        ports: []
+        env:
+          - key: IOFOG_HOST
+            value: iofog
+          - key: FEATURE_PONG_ENABLED
+            value: true
+          - key: IOFOG_CONTAINER_ID
+            value: pong
+  routes:
+    - name: ping-to-pong
+      from: ping
+      to: pong

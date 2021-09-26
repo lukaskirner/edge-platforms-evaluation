@@ -1,0 +1,95 @@
+\documentclass[%
+  % layouttitlepage,            % layout help rules (to see if you need
+  %                             % some extra vspace in your title etc.)
+  % headings = standardclasses, % serif fonts for headings
+  % headings = big,             % If you use serif fonts for headings (above option
+  %                             % uncommmented), uncomment this one to get smaller
+  %                             % headings
+  % sansseriftitlepage,         % sans serif title page
+  notocintoc,                 % do not add toc to toc itself
+  % draft = true
+]{inovexThesis}
+
+%-------------------------------------------------------------------------------
+% Binding correction for the title page.
+% WARNING: ONLY NEEDED FOR THE PRINT VERSION!
+%
+% After printing and binding, the left part of the titlepage may lose
+% significant space, for example due to overlap from glue binding.
+% You can increase the left margin of the title page with this option.
+%-------------------------------------------------------------------------------
+% \titlepagebindingcor{8mm}
+
+
+%-------------------------------------------------------------------------------
+% Binding correction for everything else.
+% Does not affect titlePageBindingCor!
+%
+% WARNING: THIS OPTION CAN SHAKE UP YOUR CURRENT LAYOUT.
+% If you want to use it, it is best to work with it from the very start. Adding
+% it when finishing your dissertation might get you into trouble.
+%
+% Search http://texdoc.net/texmf-dist/doc/latex/koma-script/scrguien.pdf for
+% "BCOR" for further reading.
+%-------------------------------------------------------------------------------
+% \KOMAoptions{BCOR=3mm}
+
+%-------------------------------------------------------------------------------
+% Title
+%-------------------------------------------------------------------------------
+\title{Evaluation of platform solutions in the context of edge computing}
+% \subtitle{Evaluation of platform solutions in the context of edge computing}
+
+%-------------------------------------------------------------------------------
+% Degree
+%-------------------------------------------------------------------------------
+\degree{Masterthesis}
+\grade{Master of Science}
+
+%-------------------------------------------------------------------------------
+% Course
+%-------------------------------------------------------------------------------
+\course{Software Engineering}
+
+%-------------------------------------------------------------------------------
+% Personal information
+%-------------------------------------------------------------------------------
+\author{Lukas Maximilian Kirner}
+\matriculationnumber{45181916}
+\mail{lukas.kirner@gmail.com}
+\street{Schönebergerstraße 2a}
+\place{82377 Penzberg}
+
+%-------------------------------------------------------------------------------
+% other information
+%-------------------------------------------------------------------------------
+\examiner{Prof. Dr. Oliver Braun}
+\examinermail{oliver.braun@hm.edu}
+\scdexaminer{Prof. Dr. Ullrich Hafner}
+\scdexaminermail{ullrich.hafner@hm.edu}
+\fstadvisor{Christoph Petrausch}
+\fstadvisormail{christoph.petrausch@inovex.de}
+
+%-------------------------------------------------------------------------------
+% Duration & Date
+\date{\today}
+\duration{01.03.2021 until 31.09.2021}
+
+%-------------------------------------------------------------------------------
+% Header: Includes pakcages and configuration
+%-------------------------------------------------------------------------------
+\input{header.tex}
+
+%-------------------------------------------------------------------------------
+% Acronyms
+%-------------------------------------------------------------------------------
+\input{src/acronyms.tex}
+
+%-------------------------------------------------------------------------------
+% Actual document
+%-------------------------------------------------------------------------------
+\raggedbottom
+\pagestyle{plain}
+\begin{document}
+  \input{src/document.tex}
+\end{document} 

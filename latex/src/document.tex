@@ -1,0 +1,64 @@
+\frontmatter
+\maketitle 
+
+%-------------------------------------------------------------------------------
+% Affidavit
+%-------------------------------------------------------------------------------
+\input{src/affidavit/affidavit.tex}
+
+
+%-------------------------------------------------------------------------------
+% Acknowledgement
+%-------------------------------------------------------------------------------
+\input{src/acknowledgement/acknowledgement.tex}
+
+%-------------------------------------------------------------------------------
+% Abstract
+%-------------------------------------------------------------------------------
+\input{src/abstract/abstract.tex}
+
+%-------------------------------------------------------------------------------
+\setcounter{tocdepth}{1}
+\tableofcontents
+
+%-------------------------------------------------------------------------------
+% Main content
+%-------------------------------------------------------------------------------
+\mainmatter
+
+%---- Aim
+\input{src/aim/aim.tex}
+
+%---- Problem
+\input{src/problem/problem.tex}
+
+%---- Evaluation Criteria
+\input{src/evaluation-criteria/evaluation-criteria.tex}
+
+%---- Basics
+\input{src/basics/basics.tex}
+
+%---- Edge Computing
+\input{src/edge-computing/edge-computing.tex}
+
+%---- Implementation
+\input{src/implementation/implementation.tex}
+
+%---- Evaluation
+\input{src/evaluation/evaluation.tex}
+
+%---- Conclusion
+\input{src/conclusion/conclusion.tex}
+
+%---- Outlook
+\input{src/outlook/outlook.tex}
+
+%-------------------------------------------------------------------------------
+% Bibliography
+%-------------------------------------------------------------------------------
+\backmatter
+\listoffigures
+\listoftables
+\lstlistoflistings
+\printglossary[type=\acronymtype, nonumberlist]
+\printbibliography[heading=bibintoc]

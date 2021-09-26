@@ -1,0 +1,1044 @@
+--- Mon Sep  6 10:42:13 UTC 2021
+top - 10:42:13 up  1:05,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  2.7 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.2 free,    587.7 used,    601.4 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.3 avail Mem 
+--- Mon Sep  6 10:42:18 UTC 2021
+top - 10:42:19 up  1:05,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.3 us,  5.3 sy,  0.0 ni, 93.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.1 free,    587.7 used,    601.5 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.2 avail Mem 
+--- Mon Sep  6 10:42:24 UTC 2021
+top - 10:42:24 up  1:05,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.7 us,  2.7 sy,  0.0 ni, 90.7 id,  4.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.4 free,    587.4 used,    601.5 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.5 avail Mem 
+--- Mon Sep  6 10:42:29 UTC 2021
+top - 10:42:29 up  1:05,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  2.7 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.6 free,    587.2 used,    601.5 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.7 avail Mem 
+--- Mon Sep  6 10:42:34 UTC 2021
+top - 10:42:34 up  1:05,  1 user,  load average: 0.15, 0.03, 0.01
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.6 free,    587.2 used,    601.5 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.7 avail Mem 
+--- Mon Sep  6 10:42:39 UTC 2021
+top - 10:42:39 up  1:05,  1 user,  load average: 0.13, 0.03, 0.01
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.5 free,    587.3 used,    601.5 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.6 avail Mem 
+--- Mon Sep  6 10:42:44 UTC 2021
+top - 10:42:45 up  1:06,  1 user,  load average: 0.12, 0.03, 0.01
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.7 us,  2.7 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.4 free,    587.4 used,    601.5 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.5 avail Mem 
+--- Mon Sep  6 10:42:50 UTC 2021
+top - 10:42:50 up  1:06,  1 user,  load average: 0.11, 0.03, 0.01
+Tasks: 137 total,   1 running, 136 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  5.4 sy,  0.0 ni, 91.9 id,  2.7 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.1 free,    587.7 used,    601.5 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.3 avail Mem 
+--- Mon Sep  6 10:42:55 UTC 2021
+top - 10:42:55 up  1:06,  1 user,  load average: 0.10, 0.03, 0.01
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  2.7 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.4 free,    587.4 used,    601.5 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.6 avail Mem 
+--- Mon Sep  6 10:43:00 UTC 2021
+top - 10:43:00 up  1:06,  1 user,  load average: 0.10, 0.03, 0.01
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.3 free,    587.4 used,    601.5 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.5 avail Mem 
+--- Mon Sep  6 10:43:05 UTC 2021
+top - 10:43:06 up  1:06,  1 user,  load average: 0.09, 0.03, 0.01
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.3 us,  4.0 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.4 free,    587.4 used,    601.5 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.6 avail Mem 
+--- Mon Sep  6 10:43:11 UTC 2021
+top - 10:43:11 up  1:06,  1 user,  load average: 0.08, 0.03, 0.01
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  2.8 sy,  0.0 ni, 97.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.6 free,    587.1 used,    601.6 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.8 avail Mem 
+--- Mon Sep  6 10:43:16 UTC 2021
+top - 10:43:16 up  1:06,  1 user,  load average: 0.07, 0.03, 0.01
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.8 free,    587.0 used,    601.6 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.0 avail Mem 
+--- Mon Sep  6 10:43:21 UTC 2021
+top - 10:43:21 up  1:06,  1 user,  load average: 0.07, 0.03, 0.01
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.3 us,  5.3 sy,  0.0 ni, 93.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.6 free,    587.1 used,    601.6 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.8 avail Mem 
+--- Mon Sep  6 10:43:26 UTC 2021
+top - 10:43:26 up  1:06,  1 user,  load average: 0.06, 0.03, 0.01
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.3 us,  5.3 sy,  0.0 ni, 93.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.6 free,    587.1 used,    601.6 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.8 avail Mem 
+--- Mon Sep  6 10:43:31 UTC 2021
+top - 10:43:32 up  1:06,  1 user,  load average: 0.06, 0.03, 0.00
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.3 free,    587.4 used,    601.6 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.6 avail Mem 
+--- Mon Sep  6 10:43:37 UTC 2021
+top - 10:43:37 up  1:06,  1 user,  load average: 0.05, 0.02, 0.00
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.6 free,    587.1 used,    601.6 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.8 avail Mem 
+--- Mon Sep  6 10:43:42 UTC 2021
+top - 10:43:42 up  1:07,  1 user,  load average: 0.05, 0.02, 0.00
+Tasks: 135 total,   1 running, 134 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.6 free,    587.1 used,    601.6 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.8 avail Mem 
+--- Mon Sep  6 10:43:47 UTC 2021
+top - 10:43:47 up  1:07,  1 user,  load average: 0.04, 0.02, 0.00
+Tasks: 135 total,   1 running, 134 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  5.4 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.8 free,    586.8 used,    601.6 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.1 avail Mem 
+--- Mon Sep  6 10:43:52 UTC 2021
+top - 10:43:52 up  1:07,  1 user,  load average: 0.04, 0.02, 0.00
+Tasks: 135 total,   1 running, 134 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  2.7 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.7 free,    586.9 used,    601.6 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.0 avail Mem 
+--- Mon Sep  6 10:43:58 UTC 2021
+top - 10:43:58 up  1:07,  1 user,  load average: 0.04, 0.02, 0.00
+Tasks: 135 total,   1 running, 134 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.6 free,    587.1 used,    601.6 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.9 avail Mem 
+--- Mon Sep  6 10:44:03 UTC 2021
+top - 10:44:03 up  1:07,  1 user,  load average: 0.03, 0.02, 0.00
+Tasks: 135 total,   1 running, 134 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.6 free,    587.0 used,    601.7 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.9 avail Mem 
+--- Mon Sep  6 10:44:08 UTC 2021
+top - 10:44:08 up  1:07,  1 user,  load average: 0.03, 0.02, 0.00
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.3 us,  4.0 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.6 free,    587.1 used,    601.7 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.9 avail Mem 
+--- Mon Sep  6 10:44:13 UTC 2021
+top - 10:44:13 up  1:07,  1 user,  load average: 0.03, 0.02, 0.00
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.7 us,  2.7 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.3 free,    587.3 used,    601.7 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.7 avail Mem 
+--- Mon Sep  6 10:44:18 UTC 2021
+top - 10:44:19 up  1:07,  1 user,  load average: 0.02, 0.02, 0.00
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.6 free,    587.0 used,    601.7 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.9 avail Mem 
+--- Mon Sep  6 10:44:24 UTC 2021
+top - 10:44:24 up  1:07,  1 user,  load average: 0.02, 0.02, 0.00
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  5.5 sy,  0.0 ni, 94.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.6 free,    587.0 used,    601.7 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.9 avail Mem 
+--- Mon Sep  6 10:44:29 UTC 2021
+top - 10:44:29 up  1:07,  1 user,  load average: 0.02, 0.02, 0.00
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.9 free,    586.6 used,    601.7 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.3 avail Mem 
+--- Mon Sep  6 10:44:34 UTC 2021
+top - 10:44:34 up  1:07,  1 user,  load average: 0.02, 0.02, 0.00
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.5 free,    587.1 used,    601.7 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.8 avail Mem 
+--- Mon Sep  6 10:44:39 UTC 2021
+top - 10:44:39 up  1:07,  1 user,  load average: 0.02, 0.02, 0.00
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.6 free,    586.9 used,    601.7 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.0 avail Mem 
+--- Mon Sep  6 10:44:44 UTC 2021
+top - 10:44:45 up  1:08,  1 user,  load average: 0.01, 0.02, 0.00
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  2.7 sy,  0.0 ni, 97.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.7 free,    586.9 used,    601.7 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.1 avail Mem 
+--- Mon Sep  6 10:44:50 UTC 2021
+top - 10:44:50 up  1:08,  1 user,  load average: 0.01, 0.02, 0.00
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.6 free,    587.0 used,    601.7 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.9 avail Mem 
+--- Mon Sep  6 10:44:55 UTC 2021
+top - 10:44:55 up  1:08,  1 user,  load average: 0.01, 0.02, 0.00
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.1 free,    587.4 used,    601.7 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.5 avail Mem 
+--- Mon Sep  6 10:45:00 UTC 2021
+top - 10:45:00 up  1:08,  1 user,  load average: 0.01, 0.02, 0.00
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  2.7 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.1 free,    587.5 used,    601.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.5 avail Mem 
+--- Mon Sep  6 10:45:05 UTC 2021
+top - 10:45:06 up  1:08,  1 user,  load average: 0.01, 0.02, 0.00
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  2.8 sy,  0.0 ni, 95.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.1 free,    587.4 used,    601.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.5 avail Mem 
+--- Mon Sep  6 10:45:11 UTC 2021
+top - 10:45:11 up  1:08,  1 user,  load average: 0.01, 0.02, 0.00
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  2.7 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.6 free,    587.0 used,    601.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.0 avail Mem 
+--- Mon Sep  6 10:45:16 UTC 2021
+top - 10:45:16 up  1:08,  1 user,  load average: 0.01, 0.02, 0.00
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  5.3 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.6 free,    586.9 used,    601.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.0 avail Mem 
+--- Mon Sep  6 10:45:21 UTC 2021
+top - 10:45:21 up  1:08,  1 user,  load average: 0.01, 0.01, 0.00
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  5.4 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.6 free,    586.9 used,    601.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.0 avail Mem 
+--- Mon Sep  6 10:45:26 UTC 2021
+top - 10:45:26 up  1:08,  1 user,  load average: 0.01, 0.01, 0.00
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.5 free,    587.0 used,    601.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.9 avail Mem 
+--- Mon Sep  6 10:45:31 UTC 2021
+top - 10:45:32 up  1:08,  1 user,  load average: 0.00, 0.01, 0.00
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.3 free,    587.2 used,    601.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.8 avail Mem 
+--- Mon Sep  6 10:45:37 UTC 2021
+top - 10:45:37 up  1:08,  1 user,  load average: 0.00, 0.01, 0.00
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.3 free,    587.1 used,    601.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.8 avail Mem 
+--- Mon Sep  6 10:45:42 UTC 2021
+top - 10:45:42 up  1:09,  1 user,  load average: 0.00, 0.01, 0.00
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.8 free,    586.7 used,    601.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.3 avail Mem 
+--- Mon Sep  6 10:45:47 UTC 2021
+top - 10:45:47 up  1:09,  1 user,  load average: 0.00, 0.01, 0.00
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  5.4 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.4 free,    587.1 used,    601.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.8 avail Mem 
+--- Mon Sep  6 10:45:52 UTC 2021
+top - 10:45:53 up  1:09,  1 user,  load average: 0.00, 0.01, 0.00
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.3 us,  4.0 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.6 free,    586.8 used,    601.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.1 avail Mem 
+--- Mon Sep  6 10:45:58 UTC 2021
+top - 10:45:58 up  1:09,  1 user,  load average: 0.00, 0.01, 0.00
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  2.7 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.3 free,    587.1 used,    601.9 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.8 avail Mem 
+--- Mon Sep  6 10:46:03 UTC 2021
+top - 10:46:03 up  1:09,  1 user,  load average: 0.00, 0.01, 0.00
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.6 free,    586.9 used,    601.9 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.1 avail Mem 
+--- Mon Sep  6 10:46:08 UTC 2021
+top - 10:46:08 up  1:09,  1 user,  load average: 0.00, 0.01, 0.00
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  5.4 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.7 free,    586.7 used,    601.9 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.2 avail Mem 
+--- Mon Sep  6 10:46:13 UTC 2021
+top - 10:46:13 up  1:09,  1 user,  load average: 0.00, 0.01, 0.00
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  2.8 sy,  0.0 ni, 97.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.5 free,    586.9 used,    601.9 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.1 avail Mem 
+--- Mon Sep  6 10:46:18 UTC 2021
+top - 10:46:19 up  1:09,  1 user,  load average: 0.00, 0.01, 0.00
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.7 us,  5.4 sy,  0.0 ni, 91.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.2 free,    587.2 used,    601.9 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.7 avail Mem 
+--- Mon Sep  6 10:46:24 UTC 2021
+top - 10:46:24 up  1:09,  1 user,  load average: 0.00, 0.01, 0.00
+Tasks: 136 total,   1 running, 135 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.8 free,    586.6 used,    601.9 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.3 avail Mem 
+--- Mon Sep  6 10:46:29 UTC 2021
+top - 10:46:29 up  1:09,  1 user,  load average: 0.00, 0.01, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 89.2 id,  5.4 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.9 free,    586.4 used,    601.9 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.5 avail Mem 
+--- Mon Sep  6 10:46:34 UTC 2021
+top - 10:46:34 up  1:09,  1 user,  load average: 0.00, 0.01, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.3 free,    587.1 used,    601.9 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.9 avail Mem 
+--- Mon Sep  6 10:46:39 UTC 2021
+top - 10:46:39 up  1:09,  1 user,  load average: 0.00, 0.01, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.5 free,    586.9 used,    601.9 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.0 avail Mem 
+--- Mon Sep  6 10:46:45 UTC 2021
+top - 10:46:45 up  1:10,  1 user,  load average: 0.00, 0.01, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  5.4 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.3 free,    587.0 used,    601.9 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.9 avail Mem 
+--- Mon Sep  6 10:46:50 UTC 2021
+top - 10:46:50 up  1:10,  1 user,  load average: 0.00, 0.01, 0.00
+Tasks: 135 total,   1 running, 134 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  2.7 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.3 free,    587.1 used,    601.9 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.9 avail Mem 
+--- Mon Sep  6 10:46:55 UTC 2021
+top - 10:46:55 up  1:10,  1 user,  load average: 0.00, 0.01, 0.00
+Tasks: 135 total,   1 running, 134 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.3 free,    587.1 used,    601.9 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.9 avail Mem 
+--- Mon Sep  6 10:47:00 UTC 2021
+top - 10:47:00 up  1:10,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 87.8 id,  6.8 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.2 free,    587.2 used,    601.9 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3150.8 avail Mem 
+--- Mon Sep  6 10:47:05 UTC 2021
+top - 10:47:06 up  1:10,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  2.7 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.9 free,    586.4 used,    601.9 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.5 avail Mem 
+--- Mon Sep  6 10:47:11 UTC 2021
+top - 10:47:11 up  1:10,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.7 free,    586.6 used,    602.0 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.3 avail Mem 
+--- Mon Sep  6 10:47:16 UTC 2021
+top - 10:47:16 up  1:10,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.7 us,  2.7 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2605.1 free,    586.3 used,    602.0 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.7 avail Mem 
+--- Mon Sep  6 10:47:21 UTC 2021
+top - 10:47:21 up  1:10,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.4 free,    586.9 used,    602.0 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.1 avail Mem 
+--- Mon Sep  6 10:47:26 UTC 2021
+top - 10:47:26 up  1:10,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  5.4 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.6 free,    586.7 used,    602.0 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.2 avail Mem 
+--- Mon Sep  6 10:47:31 UTC 2021
+top - 10:47:32 up  1:10,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 86.5 id,  8.1 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.8 free,    586.5 used,    602.0 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.5 avail Mem 
+--- Mon Sep  6 10:47:37 UTC 2021
+top - 10:47:37 up  1:10,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  2.7 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2605.3 free,    586.0 used,    602.0 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.9 avail Mem 
+--- Mon Sep  6 10:47:42 UTC 2021
+top - 10:47:42 up  1:11,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  2.8 sy,  0.0 ni, 97.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2605.0 free,    586.2 used,    602.0 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.7 avail Mem 
+--- Mon Sep  6 10:47:47 UTC 2021
+top - 10:47:47 up  1:11,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.9 free,    586.3 used,    602.0 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.6 avail Mem 
+--- Mon Sep  6 10:47:52 UTC 2021
+top - 10:47:53 up  1:11,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.6 us,  3.9 sy,  0.0 ni, 93.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2605.3 free,    585.9 used,    602.0 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3152.0 avail Mem 
+--- Mon Sep  6 10:47:58 UTC 2021
+top - 10:47:58 up  1:11,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.3 us,  5.3 sy,  0.0 ni, 88.2 id,  5.3 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2605.5 free,    585.7 used,    602.0 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3152.2 avail Mem 
+--- Mon Sep  6 10:48:03 UTC 2021
+top - 10:48:03 up  1:11,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.7 free,    586.6 used,    602.0 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.4 avail Mem 
+--- Mon Sep  6 10:48:08 UTC 2021
+top - 10:48:08 up  1:11,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.7 us,  2.7 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.8 free,    586.4 used,    602.1 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.5 avail Mem 
+--- Mon Sep  6 10:48:13 UTC 2021
+top - 10:48:13 up  1:11,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.5 free,    586.7 used,    602.1 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.2 avail Mem 
+--- Mon Sep  6 10:48:18 UTC 2021
+top - 10:48:19 up  1:11,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.4 free,    586.8 used,    602.1 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.2 avail Mem 
+--- Mon Sep  6 10:48:24 UTC 2021
+top - 10:48:24 up  1:11,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.8 free,    586.4 used,    602.1 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.5 avail Mem 
+--- Mon Sep  6 10:48:29 UTC 2021
+top - 10:48:29 up  1:11,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2605.2 free,    586.0 used,    602.1 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.9 avail Mem 
+--- Mon Sep  6 10:48:34 UTC 2021
+top - 10:48:34 up  1:11,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  5.4 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2605.2 free,    586.0 used,    602.1 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.9 avail Mem 
+--- Mon Sep  6 10:48:39 UTC 2021
+top - 10:48:40 up  1:11,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  1.4 sy,  0.0 ni, 97.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2605.1 free,    586.1 used,    602.1 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.8 avail Mem 
+--- Mon Sep  6 10:48:45 UTC 2021
+top - 10:48:45 up  1:12,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2605.0 free,    586.1 used,    602.1 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.8 avail Mem 
+--- Mon Sep  6 10:48:50 UTC 2021
+top - 10:48:50 up  1:12,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.3 us,  4.0 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2605.1 free,    586.1 used,    602.1 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.8 avail Mem 
+--- Mon Sep  6 10:48:55 UTC 2021
+top - 10:48:55 up  1:12,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2605.3 free,    585.9 used,    602.1 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3152.1 avail Mem 
+--- Mon Sep  6 10:49:00 UTC 2021
+top - 10:49:00 up  1:12,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 86.3 id,  9.6 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.9 free,    586.2 used,    602.1 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.7 avail Mem 
+--- Mon Sep  6 10:49:05 UTC 2021
+top - 10:49:06 up  1:12,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  2.8 sy,  0.0 ni, 95.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2605.1 free,    586.1 used,    602.1 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.9 avail Mem 
+--- Mon Sep  6 10:49:11 UTC 2021
+top - 10:49:11 up  1:12,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 132 total,   1 running, 131 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2605.5 free,    585.6 used,    602.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3152.3 avail Mem 
+--- Mon Sep  6 10:49:16 UTC 2021
+top - 10:49:16 up  1:12,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 132 total,   1 running, 131 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  2.7 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.9 free,    586.2 used,    602.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.8 avail Mem 
+--- Mon Sep  6 10:49:21 UTC 2021
+top - 10:49:21 up  1:12,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 132 total,   1 running, 131 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  5.4 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2605.0 free,    586.1 used,    602.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.8 avail Mem 
+--- Mon Sep  6 10:49:26 UTC 2021
+top - 10:49:26 up  1:12,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 132 total,   1 running, 131 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2605.4 free,    585.7 used,    602.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3152.3 avail Mem 
+--- Mon Sep  6 10:49:31 UTC 2021
+top - 10:49:32 up  1:12,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 132 total,   1 running, 131 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 87.8 id,  8.1 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.9 free,    586.2 used,    602.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.8 avail Mem 
+--- Mon Sep  6 10:49:37 UTC 2021
+top - 10:49:37 up  1:12,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 132 total,   1 running, 131 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  2.7 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2605.1 free,    586.0 used,    602.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.9 avail Mem 
+--- Mon Sep  6 10:49:42 UTC 2021
+top - 10:49:42 up  1:13,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 132 total,   1 running, 131 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2605.2 free,    585.9 used,    602.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3152.0 avail Mem 
+--- Mon Sep  6 10:49:47 UTC 2021
+top - 10:49:47 up  1:13,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  5.4 sy,  0.0 ni, 93.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2605.4 free,    585.6 used,    602.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3152.3 avail Mem 
+--- Mon Sep  6 10:49:52 UTC 2021
+top - 10:49:53 up  1:13,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.9 free,    586.1 used,    602.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.8 avail Mem 
+--- Mon Sep  6 10:49:58 UTC 2021
+top - 10:49:58 up  1:13,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2605.1 free,    586.0 used,    602.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.9 avail Mem 
+--- Mon Sep  6 10:50:03 UTC 2021
+top - 10:50:03 up  1:13,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.8 free,    586.3 used,    602.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.7 avail Mem 
+--- Mon Sep  6 10:50:08 UTC 2021
+top - 10:50:08 up  1:13,  1 user,  load average: 0.08, 0.02, 0.01
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  2.8 sy,  0.0 ni, 97.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2605.0 free,    586.0 used,    602.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.9 avail Mem 
+--- Mon Sep  6 10:50:13 UTC 2021
+top - 10:50:13 up  1:13,  1 user,  load average: 0.07, 0.02, 0.00
+Tasks: 132 total,   1 running, 131 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2605.3 free,    585.7 used,    602.3 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3152.2 avail Mem 
+--- Mon Sep  6 10:50:18 UTC 2021
+top - 10:50:19 up  1:13,  1 user,  load average: 0.07, 0.02, 0.00
+Tasks: 132 total,   1 running, 131 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  5.4 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2604.8 free,    586.2 used,    602.3 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3151.7 avail Mem 
+--- Mon Sep  6 10:50:24 UTC 2021
+top - 10:50:24 up  1:13,  1 user,  load average: 0.06, 0.02, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  2.7 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2605.0 free,    586.0 used,    602.3 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3152.0 avail Mem 
+--- Mon Sep  6 10:50:29 UTC 2021
+top - 10:50:29 up  1:13,  1 user,  load average: 0.06, 0.01, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  5.4 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2605.2 free,    585.8 used,    602.3 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3152.1 avail Mem 
+--- Mon Sep  6 10:50:34 UTC 2021
+top - 10:50:34 up  1:13,  1 user,  load average: 0.05, 0.01, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  2.7 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.5 free,    583.5 used,    602.3 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.4 avail Mem 
+--- Mon Sep  6 10:50:39 UTC 2021
+top - 10:50:40 up  1:13,  1 user,  load average: 0.04, 0.01, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.3 us,  5.3 sy,  0.0 ni, 93.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.4 free,    583.6 used,    602.3 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.3 avail Mem 
+--- Mon Sep  6 10:50:45 UTC 2021
+top - 10:50:45 up  1:14,  1 user,  load average: 0.04, 0.01, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.3 free,    583.7 used,    602.3 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.2 avail Mem 
+--- Mon Sep  6 10:50:50 UTC 2021
+top - 10:50:50 up  1:14,  1 user,  load average: 0.04, 0.01, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.3 us,  5.3 sy,  0.0 ni, 93.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.6 free,    583.3 used,    602.3 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.6 avail Mem 
+--- Mon Sep  6 10:50:55 UTC 2021
+top - 10:50:55 up  1:14,  1 user,  load average: 0.03, 0.01, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.8 free,    583.2 used,    602.3 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.7 avail Mem 
+--- Mon Sep  6 10:51:00 UTC 2021
+top - 10:51:00 up  1:14,  1 user,  load average: 0.03, 0.01, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.7 free,    583.2 used,    602.3 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.7 avail Mem 
+--- Mon Sep  6 10:51:05 UTC 2021
+top - 10:51:06 up  1:14,  1 user,  load average: 0.03, 0.01, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  2.7 sy,  0.0 ni, 94.6 id,  1.4 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.3 free,    583.7 used,    602.3 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.3 avail Mem 
+--- Mon Sep  6 10:51:11 UTC 2021
+top - 10:51:11 up  1:14,  1 user,  load average: 0.02, 0.01, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.1 free,    583.8 used,    602.3 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.1 avail Mem 
+--- Mon Sep  6 10:51:16 UTC 2021
+top - 10:51:16 up  1:14,  1 user,  load average: 0.02, 0.01, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.0 free,    583.9 used,    602.4 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.0 avail Mem 
+--- Mon Sep  6 10:51:21 UTC 2021
+top - 10:51:21 up  1:14,  1 user,  load average: 0.02, 0.01, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.2 free,    583.7 used,    602.4 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.3 avail Mem 
+--- Mon Sep  6 10:51:26 UTC 2021
+top - 10:51:26 up  1:14,  1 user,  load average: 0.02, 0.01, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.3 free,    583.6 used,    602.4 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.3 avail Mem 
+--- Mon Sep  6 10:51:32 UTC 2021
+top - 10:51:32 up  1:14,  1 user,  load average: 0.02, 0.01, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.4 free,    583.5 used,    602.4 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.4 avail Mem 
+--- Mon Sep  6 10:51:37 UTC 2021
+top - 10:51:37 up  1:14,  1 user,  load average: 0.02, 0.01, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.5 free,    583.4 used,    602.4 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.6 avail Mem 
+--- Mon Sep  6 10:51:42 UTC 2021
+top - 10:51:42 up  1:15,  1 user,  load average: 0.01, 0.01, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.4 free,    583.5 used,    602.4 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.4 avail Mem 
+--- Mon Sep  6 10:51:47 UTC 2021
+top - 10:51:47 up  1:15,  1 user,  load average: 0.01, 0.01, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  2.7 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.3 free,    583.6 used,    602.4 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.3 avail Mem 
+--- Mon Sep  6 10:51:52 UTC 2021
+top - 10:51:53 up  1:15,  1 user,  load average: 0.01, 0.01, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.5 free,    583.3 used,    602.4 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.6 avail Mem 
+--- Mon Sep  6 10:51:58 UTC 2021
+top - 10:51:58 up  1:15,  1 user,  load average: 0.01, 0.01, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.7 us,  2.7 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.5 free,    583.3 used,    602.4 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.6 avail Mem 
+--- Mon Sep  6 10:52:03 UTC 2021
+top - 10:52:03 up  1:15,  1 user,  load average: 0.01, 0.01, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  5.3 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.1 free,    583.7 used,    602.4 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.2 avail Mem 
+--- Mon Sep  6 10:52:08 UTC 2021
+top - 10:52:08 up  1:15,  1 user,  load average: 0.01, 0.00, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2606.8 free,    584.1 used,    602.4 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3153.9 avail Mem 
+--- Mon Sep  6 10:52:13 UTC 2021
+top - 10:52:13 up  1:15,  1 user,  load average: 0.01, 0.00, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2606.8 free,    584.1 used,    602.4 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3153.9 avail Mem 
+--- Mon Sep  6 10:52:18 UTC 2021
+top - 10:52:19 up  1:15,  1 user,  load average: 0.01, 0.00, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.0 free,    583.8 used,    602.5 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.1 avail Mem 
+--- Mon Sep  6 10:52:24 UTC 2021
+top - 10:52:24 up  1:15,  1 user,  load average: 0.01, 0.00, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  2.7 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.1 free,    583.7 used,    602.5 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.3 avail Mem 
+--- Mon Sep  6 10:52:29 UTC 2021
+top - 10:52:29 up  1:15,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.3 us,  5.3 sy,  0.0 ni, 93.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.2 free,    583.6 used,    602.5 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.3 avail Mem 
+--- Mon Sep  6 10:52:34 UTC 2021
+top - 10:52:34 up  1:15,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.3 us,  4.0 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.1 free,    583.7 used,    602.5 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.3 avail Mem 
+--- Mon Sep  6 10:52:39 UTC 2021
+top - 10:52:40 up  1:15,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  2.7 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.1 free,    583.7 used,    602.5 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.3 avail Mem 
+--- Mon Sep  6 10:52:45 UTC 2021
+top - 10:52:45 up  1:16,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.5 free,    583.3 used,    602.5 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.6 avail Mem 
+--- Mon Sep  6 10:52:50 UTC 2021
+top - 10:52:50 up  1:16,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.7 us,  4.0 sy,  0.0 ni, 93.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.2 free,    583.6 used,    602.5 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.3 avail Mem 
+--- Mon Sep  6 10:52:55 UTC 2021
+top - 10:52:55 up  1:16,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.4 free,    583.4 used,    602.5 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.6 avail Mem 
+--- Mon Sep  6 10:53:00 UTC 2021
+top - 10:53:00 up  1:16,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.7 us,  2.7 sy,  0.0 ni, 94.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.0 free,    583.8 used,    602.5 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.2 avail Mem 
+--- Mon Sep  6 10:53:05 UTC 2021
+top - 10:53:06 up  1:16,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  2.7 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.1 free,    583.6 used,    602.5 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.3 avail Mem 
+--- Mon Sep  6 10:53:11 UTC 2021
+top - 10:53:11 up  1:16,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  2.7 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.2 free,    583.5 used,    602.6 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.4 avail Mem 
+--- Mon Sep  6 10:53:16 UTC 2021
+top - 10:53:16 up  1:16,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  5.3 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.3 free,    583.5 used,    602.6 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.5 avail Mem 
+--- Mon Sep  6 10:53:21 UTC 2021
+top - 10:53:21 up  1:16,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.1 free,    583.6 used,    602.6 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.4 avail Mem 
+--- Mon Sep  6 10:53:26 UTC 2021
+top - 10:53:27 up  1:16,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.3 free,    583.4 used,    602.6 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.5 avail Mem 
+--- Mon Sep  6 10:53:32 UTC 2021
+top - 10:53:32 up  1:16,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.2 free,    583.5 used,    602.6 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.5 avail Mem 
+--- Mon Sep  6 10:53:37 UTC 2021
+top - 10:53:37 up  1:16,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.7 us,  2.7 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.0 free,    583.7 used,    602.6 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.2 avail Mem 
+--- Mon Sep  6 10:53:42 UTC 2021
+top - 10:53:42 up  1:17,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2606.5 free,    584.1 used,    602.6 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3153.8 avail Mem 
+--- Mon Sep  6 10:53:47 UTC 2021
+top - 10:53:47 up  1:17,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2606.5 free,    584.2 used,    602.6 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3153.8 avail Mem 
+--- Mon Sep  6 10:53:52 UTC 2021
+top - 10:53:53 up  1:17,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2606.5 free,    584.1 used,    602.6 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3153.8 avail Mem 
+--- Mon Sep  6 10:53:58 UTC 2021
+top - 10:53:58 up  1:17,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  2.8 sy,  0.0 ni, 95.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2606.5 free,    584.1 used,    602.6 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3153.8 avail Mem 
+--- Mon Sep  6 10:54:03 UTC 2021
+top - 10:54:03 up  1:17,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.7 us,  4.0 sy,  0.0 ni, 93.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.0 free,    583.6 used,    602.6 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.3 avail Mem 
+--- Mon Sep  6 10:54:08 UTC 2021
+top - 10:54:08 up  1:17,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2606.8 free,    583.9 used,    602.6 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.1 avail Mem 
+--- Mon Sep  6 10:54:13 UTC 2021
+top - 10:54:13 up  1:17,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  2.7 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2606.9 free,    583.7 used,    602.6 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.2 avail Mem 
+--- Mon Sep  6 10:54:19 UTC 2021
+top - 10:54:19 up  1:17,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.3 us,  4.0 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2606.5 free,    584.1 used,    602.7 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3153.8 avail Mem 
+--- Mon Sep  6 10:54:24 UTC 2021
+top - 10:54:24 up  1:17,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.0 free,    583.6 used,    602.7 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.3 avail Mem 
+--- Mon Sep  6 10:54:29 UTC 2021
+top - 10:54:29 up  1:17,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2606.9 free,    583.7 used,    602.7 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.2 avail Mem 
+--- Mon Sep  6 10:54:34 UTC 2021
+top - 10:54:34 up  1:17,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  2.7 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2606.8 free,    583.8 used,    602.7 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.1 avail Mem 
+--- Mon Sep  6 10:54:39 UTC 2021
+top - 10:54:40 up  1:17,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.2 sy,  0.0 ni, 95.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.0 free,    583.6 used,    602.7 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.4 avail Mem 
+--- Mon Sep  6 10:54:45 UTC 2021
+top - 10:54:45 up  1:18,  1 user,  load average: 0.07, 0.02, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.2 free,    583.3 used,    602.7 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.6 avail Mem 
+--- Mon Sep  6 10:54:50 UTC 2021
+top - 10:54:50 up  1:18,  1 user,  load average: 0.23, 0.05, 0.02
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.7 us,  2.7 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2606.8 free,    583.8 used,    602.7 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.1 avail Mem 
+--- Mon Sep  6 10:54:55 UTC 2021
+top - 10:54:55 up  1:18,  1 user,  load average: 0.21, 0.05, 0.02
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.0 free,    583.6 used,    602.7 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.4 avail Mem 
+--- Mon Sep  6 10:55:00 UTC 2021
+top - 10:55:00 up  1:18,  1 user,  load average: 0.19, 0.05, 0.01
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.7 us,  4.1 sy,  0.0 ni, 93.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2606.9 free,    583.6 used,    602.7 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.3 avail Mem 
+--- Mon Sep  6 10:55:05 UTC 2021
+top - 10:55:06 up  1:18,  1 user,  load average: 0.18, 0.05, 0.01
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2606.9 free,    583.7 used,    602.7 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.3 avail Mem 
+--- Mon Sep  6 10:55:11 UTC 2021
+top - 10:55:11 up  1:18,  1 user,  load average: 0.16, 0.05, 0.01
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  2.7 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.2 free,    583.4 used,    602.7 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.6 avail Mem 
+--- Mon Sep  6 10:55:16 UTC 2021
+top - 10:55:16 up  1:18,  1 user,  load average: 0.15, 0.04, 0.01
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.7 us,  2.7 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.2 free,    583.3 used,    602.7 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.6 avail Mem 
+--- Mon Sep  6 10:55:21 UTC 2021
+top - 10:55:21 up  1:18,  1 user,  load average: 0.14, 0.04, 0.01
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  2.7 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.2 free,    583.3 used,    602.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.6 avail Mem 
+--- Mon Sep  6 10:55:26 UTC 2021
+top - 10:55:27 up  1:18,  1 user,  load average: 0.13, 0.04, 0.01
+Tasks: 132 total,   1 running, 131 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.5 free,    583.0 used,    602.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.9 avail Mem 
+--- Mon Sep  6 10:55:32 UTC 2021
+top - 10:55:32 up  1:18,  1 user,  load average: 0.12, 0.04, 0.01
+Tasks: 132 total,   1 running, 131 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.2 free,    583.3 used,    602.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.7 avail Mem 
+--- Mon Sep  6 10:55:37 UTC 2021
+top - 10:55:37 up  1:18,  1 user,  load average: 0.11, 0.04, 0.01
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  2.8 sy,  0.0 ni, 95.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.2 free,    583.3 used,    602.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.7 avail Mem 
+--- Mon Sep  6 10:55:42 UTC 2021
+top - 10:55:42 up  1:19,  1 user,  load average: 0.10, 0.04, 0.01
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.4 free,    583.1 used,    602.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.8 avail Mem 
+--- Mon Sep  6 10:55:47 UTC 2021
+top - 10:55:47 up  1:19,  1 user,  load average: 0.09, 0.04, 0.01
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.0 free,    583.5 used,    602.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.5 avail Mem 
+--- Mon Sep  6 10:55:52 UTC 2021
+top - 10:55:53 up  1:19,  1 user,  load average: 0.08, 0.04, 0.01
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.3 us,  4.0 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2606.7 free,    583.7 used,    602.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.2 avail Mem 
+--- Mon Sep  6 10:55:58 UTC 2021
+top - 10:55:58 up  1:19,  1 user,  load average: 0.08, 0.04, 0.01
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  2.7 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2606.9 free,    583.6 used,    602.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.3 avail Mem 
+--- Mon Sep  6 10:56:03 UTC 2021
+top - 10:56:03 up  1:19,  1 user,  load average: 0.07, 0.04, 0.01
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.6 us,  3.9 sy,  0.0 ni, 93.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.0 free,    583.5 used,    602.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.5 avail Mem 
+--- Mon Sep  6 10:56:08 UTC 2021
+top - 10:56:08 up  1:19,  1 user,  load average: 0.06, 0.03, 0.01
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.3 us,  4.0 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.0 free,    583.4 used,    602.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.5 avail Mem 
+--- Mon Sep  6 10:56:13 UTC 2021
+top - 10:56:14 up  1:19,  1 user,  load average: 0.06, 0.03, 0.01
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.1 free,    583.3 used,    602.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.6 avail Mem 
+--- Mon Sep  6 10:56:19 UTC 2021
+top - 10:56:19 up  1:19,  1 user,  load average: 0.05, 0.03, 0.01
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  5.4 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2606.9 free,    583.5 used,    602.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.4 avail Mem 
+--- Mon Sep  6 10:56:24 UTC 2021
+top - 10:56:24 up  1:19,  1 user,  load average: 0.05, 0.03, 0.01
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.3 us,  5.3 sy,  0.0 ni, 93.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.0 free,    583.4 used,    602.9 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.5 avail Mem 
+--- Mon Sep  6 10:56:29 UTC 2021
+top - 10:56:29 up  1:19,  1 user,  load average: 0.04, 0.03, 0.01
+Tasks: 133 total,   1 running, 132 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.2 free,    583.3 used,    602.9 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.7 avail Mem 
+--- Mon Sep  6 10:56:34 UTC 2021
+top - 10:56:34 up  1:19,  1 user,  load average: 0.04, 0.03, 0.01
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  2.7 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.2 free,    583.2 used,    602.9 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.8 avail Mem 
+--- Mon Sep  6 10:56:39 UTC 2021
+top - 10:56:40 up  1:19,  1 user,  load average: 0.04, 0.03, 0.01
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.2 free,    583.2 used,    602.9 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.7 avail Mem 
+--- Mon Sep  6 10:56:45 UTC 2021
+top - 10:56:45 up  1:20,  1 user,  load average: 0.03, 0.03, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  2.7 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.0 free,    583.4 used,    602.9 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.5 avail Mem 
+--- Mon Sep  6 10:56:50 UTC 2021
+top - 10:56:50 up  1:20,  1 user,  load average: 0.03, 0.03, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  2.7 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2606.9 free,    583.5 used,    602.9 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.4 avail Mem 
+--- Mon Sep  6 10:56:55 UTC 2021
+top - 10:56:55 up  1:20,  1 user,  load average: 0.03, 0.03, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2606.7 free,    583.6 used,    602.9 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.3 avail Mem 
+--- Mon Sep  6 10:57:00 UTC 2021
+top - 10:57:00 up  1:20,  1 user,  load average: 0.02, 0.03, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2607.2 free,    583.1 used,    602.9 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.8 avail Mem 
+--- Mon Sep  6 10:57:06 UTC 2021
+top - 10:57:06 up  1:20,  1 user,  load average: 0.02, 0.03, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  2.7 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2606.9 free,    583.4 used,    602.9 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.5 avail Mem 
+--- Mon Sep  6 10:57:11 UTC 2021
+top - 10:57:11 up  1:20,  1 user,  load average: 0.02, 0.03, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.4 us,  4.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2606.9 free,    583.5 used,    602.9 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.5 avail Mem 
+--- Mon Sep  6 10:57:16 UTC 2021
+top - 10:57:16 up  1:20,  1 user,  load average: 0.02, 0.02, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.7 us,  2.7 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3793.3 total,   2606.7 free,    583.7 used,    602.9 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   3154.3 avail Mem 

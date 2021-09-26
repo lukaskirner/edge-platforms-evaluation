@@ -1,0 +1,37 @@
+---
+apiVersion: iofog.org/v2
+kind: Application
+metadata:
+  name: mqtt
+spec:
+  microservices:
+    - name: mqtt-1
+      agent:
+        name: agent-1
+      config: {}
+      images:
+        arm: docker.io/emqx/emqx:4.2.14
+        registry: remote
+      container:
+        volumes: []
+        ports:
+          - internal: 1883
+            external: 1883
+          - internal: 18083
+            external: 18083
+        env: []
+    - name: mqtt-2
+      agent:
+        name: agent-2
+      config: {}
+      images:
+        arm: docker.io/emqx/emqx:4.2.14
+        registry: remote
+      container:
+        volumes: []
+        ports:
+          - internal: 1883
+            external: 1883
+          - internal: 18083
+            external: 18083
+        env: []

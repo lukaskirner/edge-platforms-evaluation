@@ -1,0 +1,51 @@
+stages:
+  - build
+
+variables:
+  EMERGENCY_IMAGE_TAG: "$CI_REGISTRY_IMAGE/emergency:$CI_PIPELINE_ID"
+  K3S_PING_IMAGE_TAG: "$CI_REGISTRY_IMAGE/k3s-ping:$CI_PIPELINE_ID"
+  IOFOG_PING_IMAGE_TAG: "$CI_REGISTRY_IMAGE/iofog-ping:$CI_PIPELINE_ID"
+
+cache:
+  key: $CI_PROJECT_NAME
+  paths:
+    - .gradle/
+
+build-emergency:
+  stage: build
+  image: openjdk:11
+  only:
+    - master
+  tags:
+    - shared
+  before_script:
+    - export GRADLE_USER_HOME=`pwd`/.gradle
+    - chmod +x ./backend/emergency/gradlew
+  script:
+    - cd ./backend/emergency && ./gradlew jib -PjibEnabled -Djib.to.image=$EMERGENCY_IMAGE_TAG -Djib.to.auth.username=$CI_REGISTRY_USER -Djib.to.auth.password=$CI_REGISTRY_PASSWORD
+
+build-k3s-ping:
+  stage: build
+  image: openjdk:11
+  only:
+    - master
+  tags:
+    - shared
+  before_script:
+    - export GRADLE_USER_HOME=`pwd`/.gradle
+    - chmod +x ./k3s/services/ping/gradlew
+  script:
+    - cd ./k3s/services/ping && ./gradlew jib -PjibEnabled -Djib.to.image=$K3S_PING_IMAGE_TAG -Djib.to.auth.username=$CI_REGISTRY_USER -Djib.to.auth.password=$CI_REGISTRY_PASSWORD
+
+build-iofog-ping:
+  stage: build
+  image: openjdk:11
+  only:
+    - master
+  tags:
+    - shared
+  before_script:
+    - export GRADLE_USER_HOME=`pwd`/.gradle
+    - chmod +x ./ioFog/services/ping/gradlew
+  script:
+    - cd ./ioFog/services/ping && ./gradlew jib -PjibEnabled -Djib.to.image=$IOFOG_PING_IMAGE_TAG -Djib.to.auth.username=$CI_REGISTRY_USER -Djib.to.auth.password=$CI_REGISTRY_PASSWORD

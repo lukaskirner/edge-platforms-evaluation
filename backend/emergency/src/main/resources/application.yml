@@ -1,0 +1,8 @@
+mqtt:
+  hostname: elb-emqx-service.mqtt.svc.cluster.local
+  port: 1883
+spring:
+  redis:
+    host: redis-master
+    port: 6379
+    password: ${REDIS_PASSWORD}

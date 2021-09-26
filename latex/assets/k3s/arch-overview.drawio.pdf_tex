@@ -1,0 +1,89 @@
+%% Creator: Inkscape 1.1 (c4e8f9e, 2021-05-24), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'arch-overview.drawio.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{495.75bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,1.19667171)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{arch-overview.drawio.pdf}}%
+    \put(0.06656581,0.19213313){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}MQTT Broker\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{arch-overview.drawio.pdf}}%
+    \put(0.06505295,0.45990923){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}InfluxDB - timeseries DB\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{arch-overview.drawio.pdf}}%
+    \put(0.67170953,0.67624811){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Emergency Service\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{arch-overview.drawio.pdf}}%
+    \put(0.67170953,0.43419062){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Redis Cluster\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{arch-overview.drawio.pdf}}%
+    \put(0.06505295,0.71709531){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Monitoring\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{arch-overview.drawio.pdf}}%
+    \put(0.04538578,1.04538578){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Users\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{arch-overview.drawio.pdf}}%
+    \put(0.06051437,0.82980333){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{k3s - cluster}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{arch-overview.drawio.pdf}}%
+    \put(0.67170953,0.19213313){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Detector\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{arch-overview.drawio.pdf}}%
+    \put(0.68835098,0.74281392){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}default\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{arch-overview.drawio.pdf}}%
+    \put(0.08320726,0.26475038){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}mqtt\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{arch-overview.drawio.pdf}}%
+    \put(0.0892587,0.78366112){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}monitoring\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{arch-overview.drawio.pdf}}%
+    \put(0.0892587,0.52647504){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}timeseries\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{arch-overview.drawio.pdf}}%
+    \put(0.14069592,1.15582451){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}BMP280 - Sensors\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{arch-overview.drawio.pdf}}%
+    \put(0.41301059,1.15582451){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}MQ-2 - Sensors\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{arch-overview.drawio.pdf}}%
+    \put(0.68532526,1.15582451){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Camera - Sensors\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{arch-overview.drawio.pdf}}%
+    \put(0.68532526,0.9515885){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Ventilation - Actors\end{tabular}}}}%
+  \end{picture}%
+\endgroup%

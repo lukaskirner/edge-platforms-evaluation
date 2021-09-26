@@ -1,0 +1,11 @@
+---
+- name: Creates "GreengrassCore" directory
+  file:
+    path: /home/{{ ansible_user }}/GreengrassCore
+    state: directory
+
+- name: Download and Unarchive greengrass-2.3.0.zip
+  ansible.builtin.unarchive:
+    src: https://d2s8p88vqu9w66.cloudfront.net/releases/greengrass-2.3.0.zip
+    dest: /home/{{ ansible_user }}/GreengrassCore
+    remote_src: yes

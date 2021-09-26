@@ -1,0 +1,41 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: emergency
+  namespace: default
+  labels:
+    app: emergency
+spec:
+  replicas: 1 # TODO: change later
+  selector:
+    matchLabels:
+      app: emergency
+  template:
+    metadata:
+      labels:
+        app: emergency
+    spec:
+      containers:
+        - name: emergency
+          image: registry.inovex.de:4567/lkirner/edge-platforms-evaluation/emergency:latest
+          imagePullPolicy: Always
+          ports:
+            - containerPort: 8080
+          env:
+            - name: SPRING_PROFILES_ACTIVE
+              value: default
+            - name: REDIS_PASSWORD
+              valueFrom: 
+                secretKeyRef: 
+                  name: redis
+                  key: redis-password
+          readinessProbe:
+              httpGet:
+                path: /actuator/health
+                port: 8080
+              initialDelaySeconds: 20
+              periodSeconds: 5
+      imagePullSecrets:
+        - name: gitlab-pull-secrets
+
+

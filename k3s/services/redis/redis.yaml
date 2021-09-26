@@ -1,0 +1,4 @@
+image:
+  registry: docker.io
+  repository: redis
+  tag: 6.2.3

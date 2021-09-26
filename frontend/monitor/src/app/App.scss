@@ -1,0 +1,16 @@
+.app {
+  text-align: center;
+  background-color: white;
+  min-height: 100vh;
+  min-width: 100vh;
+  font-size: calc(10px + 2vmin);
+  color: black;
+
+  .connected {
+    border: 2px solid green;
+  }
+
+  .diconnected {
+    border: 2px solid red;
+  }
+}

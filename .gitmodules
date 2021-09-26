@@ -1,0 +1,9 @@
+[submodule "aws-greengrass/devices/bmp280/lib/arduino-aws-greengrass-iot"]
+	path = aws-greengrass/devices/bmp280/lib/arduino-aws-greengrass-iot
+	url = git@github.com:aws-samples/arduino-aws-greengrass-iot.git
+[submodule "aws-greengrass/devices/mq2/lib/arduino-aws-greengrass-iot"]
+	path = aws-greengrass/devices/mq2/lib/arduino-aws-greengrass-iot
+	url = git@github.com:aws-samples/arduino-aws-greengrass-iot.git
+[submodule "aws-greengrass/devices/ventilation/lib/arduino-aws-greengrass-iot"]
+	path = aws-greengrass/devices/ventilation/lib/arduino-aws-greengrass-iot
+	url = git@github.com:aws-samples/arduino-aws-greengrass-iot.git

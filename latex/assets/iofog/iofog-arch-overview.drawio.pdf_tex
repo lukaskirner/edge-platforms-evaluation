@@ -1,0 +1,117 @@
+%% Creator: Inkscape 1.1 (c4e8f9e, 2021-05-24), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'iofog-arch-overview.drawio.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{751.875bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.559601)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{iofog-arch-overview.drawio.pdf}}%
+    \put(0.13965087,0.14962594){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Users\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{iofog-arch-overview.drawio.pdf}}%
+    \put(0.84189526,0.48279302){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}BMP280 - Sensors\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{iofog-arch-overview.drawio.pdf}}%
+    \put(0.84189526,0.35311721){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}MQ-2 - Sensors\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{iofog-arch-overview.drawio.pdf}}%
+    \put(0.84189526,0.2234414){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Camera - Sensors\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{iofog-arch-overview.drawio.pdf}}%
+    \put(0.84189526,0.09376559){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Ventilation - Actors\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{iofog-arch-overview.drawio.pdf}}%
+    \put(0.54862843,0.47082294){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Grafana\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{iofog-arch-overview.drawio.pdf}}%
+    \put(0.54862843,0.40199501){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}InfluxDB\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{iofog-arch-overview.drawio.pdf}}%
+    \put(0.54862843,0.33117207){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Telegraf\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{iofog-arch-overview.drawio.pdf}}%
+    \put(0.36907731,0.47082294){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Agent\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{iofog-arch-overview.drawio.pdf}}%
+    \put(0.36907731,0.40099751){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Edge Router\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{iofog-arch-overview.drawio.pdf}}%
+    \put(0.46284289,0.40099751){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Proxy\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{iofog-arch-overview.drawio.pdf}}%
+    \put(0.45386534,0.51571072){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Docker\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{iofog-arch-overview.drawio.pdf}}%
+    \put(0.13965087,0.50074813){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Controller\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{iofog-arch-overview.drawio.pdf}}%
+    \put(0.13865337,0.35511222){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Proxy\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{iofog-arch-overview.drawio.pdf}}%
+    \put(0.03491272,0.39600998){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Docker\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{iofog-arch-overview.drawio.pdf}}%
+    \put(0.13865337,0.43591022){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Interior Router\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=17]{iofog-arch-overview.drawio.pdf}}%
+    \put(0.34413965,0.54563591){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Agent 1\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=18]{iofog-arch-overview.drawio.pdf}}%
+    \put(0.04488778,0.54563591){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Control plane\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=19]{iofog-arch-overview.drawio.pdf}}%
+    \put(0.63740648,0.47082294){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Emergency\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=20]{iofog-arch-overview.drawio.pdf}}%
+    \put(0.63740648,0.40199501){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}MQTT\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=21]{iofog-arch-overview.drawio.pdf}}%
+    \put(0.72817955,0.47082294){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Detector\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=22]{iofog-arch-overview.drawio.pdf}}%
+    \put(0.54862843,0.18154613){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Telegraf\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=23]{iofog-arch-overview.drawio.pdf}}%
+    \put(0.54862843,0.1127182){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}MQTT\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=24]{iofog-arch-overview.drawio.pdf}}%
+    \put(0.54862843,0.04189526){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Emergency\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=25]{iofog-arch-overview.drawio.pdf}}%
+    \put(0.36907731,0.18154613){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Agent\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=26]{iofog-arch-overview.drawio.pdf}}%
+    \put(0.36907731,0.1117207){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Edge Router\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=27]{iofog-arch-overview.drawio.pdf}}%
+    \put(0.46284289,0.1117207){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Proxy\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=28]{iofog-arch-overview.drawio.pdf}}%
+    \put(0.45386534,0.22643392){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Docker\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=29]{iofog-arch-overview.drawio.pdf}}%
+    \put(0.34413965,0.2563591){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Agent 2\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=30]{iofog-arch-overview.drawio.pdf}}%
+    \put(0.63740648,0.04189526){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Detector\end{tabular}}}}%
+  \end{picture}%
+\endgroup%

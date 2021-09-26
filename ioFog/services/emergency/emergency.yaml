@@ -1,0 +1,84 @@
+---
+apiVersion: iofog.org/v2
+kind: Application
+metadata:
+  name: emergency
+spec:
+  microservices:
+    # Agent 2
+    - name: emergency-agent-1
+      agent:
+        name: agent-1
+      config: {}
+      images:
+        arm: registry.inovex.de:4567/lkirner/edge-platforms-evaluation/emergency:latest
+        registry: local # <-- ioFog no able to pull from private registry with different port
+      container:
+        volumes: []
+        ports: []
+        env:
+          - key: SPRING_PROFILES_ACTIVE
+            value: fog
+          - key: MQTT_HOST
+            value: 192.168.178.151
+          - key: MQTT_PORT
+            value: 1883
+          - key: REDIS_HOST
+            value: 192.168.178.151
+          - key: REDIS_PORT
+            value: 6379
+          - key: REDIS_PASSWORD
+            value: password # <-- should be better and hidden
+    - name: redis-agent-1
+      agent:
+        name: agent-1
+      config: {}
+      images:
+        arm: docker.io/redis:6.2.3
+        registry: remote
+      container:
+        commands: ["redis-server", "--requirepass", "password"]
+        volumes: []
+        ports:
+          - internal: 6379
+            external: 6379 # <-- dev only, for inspecting content
+        env: []
+
+    # Agent 2
+    - name: emergency-agent-2
+      agent:
+        name: agent-2
+      config: {}
+      images:
+        arm: registry.inovex.de:4567/lkirner/edge-platforms-evaluation/emergency:latest
+        registry: local
+      container:
+        volumes: []
+        ports: []
+        env:
+          - key: SPRING_PROFILES_ACTIVE
+            value: fog
+          - key: MQTT_HOST
+            value: 192.168.178.152
+          - key: MQTT_PORT
+            value: 1883
+          - key: REDIS_HOST
+            value: 192.168.178.152
+          - key: REDIS_PORT
+            value: 6379
+          - key: REDIS_PASSWORD
+            value: password # <-- should be better and hidden
+    - name: redis-agent-2
+      agent:
+        name: agent-2
+      config: {}
+      images:
+        arm: docker.io/redis:6.2.3
+        registry: remote
+      container:
+        commands: ["redis-server", "--requirepass", "password"]
+        volumes: []
+        ports:
+          - internal: 6379
+            external: 6379 # <-- dev only, for inspecting content
+        env: []

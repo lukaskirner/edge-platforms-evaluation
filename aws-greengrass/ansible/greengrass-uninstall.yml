@@ -1,0 +1,7 @@
+---
+- hosts: devices
+  become: true
+  roles:
+    - role: uninstall
+
+# Source: https://docs.aws.amazon.com/greengrass/v2/developerguide/uninstall-greengrass-core-v2.html

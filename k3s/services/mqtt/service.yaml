@@ -1,0 +1,27 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: elb-emqx-service
+  namespace: mqtt
+spec:
+  selector:
+    app: emqx
+  type: LoadBalancer
+  externalTrafficPolicy: Local
+  ports:
+    - name: mqtt
+      port: 1883
+      protocol: TCP
+      targetPort: mqtt
+    - name: ws
+      port: 8083
+      protocol: TCP
+      targetPort: ws
+    - name: dashboard
+      port: 18083
+      protocol: TCP
+      targetPort: dashboard
+    - name: api # <-- enable for dev only
+      port: 8081
+      protocol: TCP
+      targetPort: mgmt

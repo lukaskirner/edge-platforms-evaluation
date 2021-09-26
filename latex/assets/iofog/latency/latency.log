@@ -1,0 +1,214 @@
+2021-08-30 15:05:13.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630335913226
+2021-08-30 15:05:13.245  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630335913242
+2021-08-30 15:05:18.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630335918226
+2021-08-30 15:05:18.243  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630335918239
+2021-08-30 15:05:23.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630335923226
+2021-08-30 15:05:23.246  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630335923243
+2021-08-30 15:05:28.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630335928226
+2021-08-30 15:05:28.243  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630335928240
+2021-08-30 15:05:33.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630335933226
+2021-08-30 15:05:33.244  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630335933241
+2021-08-30 15:05:38.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630335938226
+2021-08-30 15:05:38.244  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630335938241
+2021-08-30 15:05:43.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630335943226
+2021-08-30 15:05:43.349  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630335943345
+2021-08-30 15:05:48.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630335948226
+2021-08-30 15:05:48.248  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630335948243
+2021-08-30 15:05:53.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630335953226
+2021-08-30 15:05:53.246  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630335953242
+2021-08-30 15:05:58.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630335958226
+2021-08-30 15:05:58.244  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630335958242
+2021-08-30 15:06:03.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630335963226
+2021-08-30 15:06:03.244  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630335963241
+2021-08-30 15:06:08.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630335968226
+2021-08-30 15:06:08.243  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630335968240
+2021-08-30 15:06:13.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630335973226
+2021-08-30 15:06:13.242  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630335973239
+2021-08-30 15:06:18.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630335978226
+2021-08-30 15:06:18.245  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630335978238
+2021-08-30 15:06:23.227  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630335983227
+2021-08-30 15:06:23.249  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630335983245
+2021-08-30 15:06:28.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630335988226
+2021-08-30 15:06:28.246  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630335988242
+2021-08-30 15:06:33.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630335993226
+2021-08-30 15:06:33.244  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630335993240
+2021-08-30 15:06:38.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630335998226
+2021-08-30 15:06:38.244  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630335998241
+2021-08-30 15:06:43.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336003226
+2021-08-30 15:06:43.246  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336003241
+2021-08-30 15:06:48.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336008226
+2021-08-30 15:06:48.262  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336008241
+2021-08-30 15:06:53.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336013226
+2021-08-30 15:06:53.258  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336013240
+2021-08-30 15:06:58.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336018226
+2021-08-30 15:06:58.247  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336018241
+2021-08-30 15:07:03.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336023226
+2021-08-30 15:07:03.246  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336023240
+2021-08-30 15:07:08.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336028226
+2021-08-30 15:07:08.247  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336028242
+2021-08-30 15:07:13.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336033226
+2021-08-30 15:07:13.257  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336033253
+2021-08-30 15:07:18.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336038226
+2021-08-30 15:07:18.247  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336038242
+2021-08-30 15:07:23.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336043226
+2021-08-30 15:07:23.243  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336043239
+2021-08-30 15:07:28.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336048226
+2021-08-30 15:07:28.243  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336048239
+2021-08-30 15:07:33.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336053226
+2021-08-30 15:07:33.264  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336053241
+2021-08-30 15:07:38.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336058226
+2021-08-30 15:07:38.242  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336058239
+2021-08-30 15:07:43.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336063226
+2021-08-30 15:07:43.244  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336063240
+2021-08-30 15:07:48.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336068226
+2021-08-30 15:07:48.244  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336068241
+2021-08-30 15:07:53.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336073226
+2021-08-30 15:07:53.240  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336073237
+2021-08-30 15:07:58.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336078226
+2021-08-30 15:07:58.243  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336078239
+2021-08-30 15:08:03.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336083226
+2021-08-30 15:08:03.244  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336083240
+2021-08-30 15:08:08.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336088226
+2021-08-30 15:08:08.243  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336088238
+2021-08-30 15:08:13.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336093226
+2021-08-30 15:08:13.246  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336093241
+2021-08-30 15:08:18.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336098226
+2021-08-30 15:08:18.242  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336098238
+2021-08-30 15:08:23.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336103226
+2021-08-30 15:08:23.247  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336103241
+2021-08-30 15:08:28.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336108226
+2021-08-30 15:08:28.242  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336108238
+2021-08-30 15:08:33.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336113226
+2021-08-30 15:08:33.242  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336113239
+2021-08-30 15:08:38.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336118226
+2021-08-30 15:08:38.243  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336118239
+2021-08-30 15:08:43.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336123226
+2021-08-30 15:08:43.247  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336123241
+2021-08-30 15:08:48.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336128226
+2021-08-30 15:08:48.246  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336128241
+2021-08-30 15:08:53.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336133226
+2021-08-30 15:08:53.244  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336133240
+2021-08-30 15:08:58.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336138226
+2021-08-30 15:08:58.246  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336138240
+2021-08-30 15:09:03.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336143226
+2021-08-30 15:09:03.246  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336143242
+2021-08-30 15:09:08.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336148226
+2021-08-30 15:09:08.248  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336148243
+2021-08-30 15:09:13.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336153226
+2021-08-30 15:09:13.248  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336153244
+2021-08-30 15:09:18.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336158226
+2021-08-30 15:09:18.243  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336158239
+2021-08-30 15:09:23.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336163226
+2021-08-30 15:09:23.244  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336163240
+2021-08-30 15:09:28.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336168226
+2021-08-30 15:09:28.248  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336168241
+2021-08-30 15:09:33.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336173226
+2021-08-30 15:09:33.246  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336173241
+2021-08-30 15:09:38.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336178226
+2021-08-30 15:09:38.256  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336178253
+2021-08-30 15:09:43.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336183226
+2021-08-30 15:09:43.244  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336183241
+2021-08-30 15:09:48.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336188226
+2021-08-30 15:09:48.243  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336188241
+2021-08-30 15:09:53.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336193226
+2021-08-30 15:09:53.243  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336193240
+2021-08-30 15:09:58.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336198226
+2021-08-30 15:09:58.243  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336198241
+2021-08-30 15:10:03.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336203226
+2021-08-30 15:10:03.242  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336203239
+2021-08-30 15:10:08.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336208226
+2021-08-30 15:10:08.240  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336208237
+2021-08-30 15:10:13.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336213226
+2021-08-30 15:10:13.278  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336213274
+2021-08-30 15:10:18.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336218226
+2021-08-30 15:10:18.241  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336218237
+2021-08-30 15:10:23.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336223226
+2021-08-30 15:10:23.241  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336223239
+2021-08-30 15:10:28.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336228226
+2021-08-30 15:10:28.238  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336228235
+2021-08-30 15:10:33.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336233226
+2021-08-30 15:10:33.241  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336233237
+2021-08-30 15:10:38.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336238226
+2021-08-30 15:10:38.239  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336238237
+2021-08-30 15:10:43.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336243226
+2021-08-30 15:10:43.239  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336243236
+2021-08-30 15:10:48.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336248226
+2021-08-30 15:10:48.261  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336248257
+2021-08-30 15:10:53.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336253226
+2021-08-30 15:10:53.241  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336253237
+2021-08-30 15:10:58.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336258226
+2021-08-30 15:10:58.240  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336258237
+2021-08-30 15:11:03.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336263226
+2021-08-30 15:11:03.241  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336263237
+2021-08-30 15:11:08.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336268226
+2021-08-30 15:11:08.242  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336268238
+2021-08-30 15:11:13.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336273226
+2021-08-30 15:11:13.241  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336273236
+2021-08-30 15:11:18.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336278226
+2021-08-30 15:11:18.240  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336278236
+2021-08-30 15:11:23.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336283226
+2021-08-30 15:11:23.259  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336283255
+2021-08-30 15:11:28.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336288226
+2021-08-30 15:11:28.240  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336288236
+2021-08-30 15:11:33.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336293226
+2021-08-30 15:11:33.241  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336293237
+2021-08-30 15:11:38.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336298226
+2021-08-30 15:11:38.241  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336298237
+2021-08-30 15:11:43.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336303226
+2021-08-30 15:11:43.241  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336303237
+2021-08-30 15:11:48.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336308226
+2021-08-30 15:11:48.252  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336308248
+2021-08-30 15:11:53.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336313226
+2021-08-30 15:11:53.238  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336313235
+2021-08-30 15:11:58.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336318226
+2021-08-30 15:11:58.311  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336318308
+2021-08-30 15:12:03.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336323226
+2021-08-30 15:12:03.241  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336323237
+2021-08-30 15:12:08.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336328226
+2021-08-30 15:12:08.239  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336328237
+2021-08-30 15:12:13.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336333226
+2021-08-30 15:12:13.241  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336333237
+2021-08-30 15:12:18.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336338226
+2021-08-30 15:12:18.238  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336338235
+2021-08-30 15:12:23.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336343226
+2021-08-30 15:12:23.238  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336343236
+2021-08-30 15:12:28.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336348226
+2021-08-30 15:12:28.239  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336348236
+2021-08-30 15:12:33.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336353226
+2021-08-30 15:12:33.243  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336353240
+2021-08-30 15:12:38.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336358226
+2021-08-30 15:12:38.269  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336358266
+2021-08-30 15:12:43.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336363226
+2021-08-30 15:12:43.240  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336363236
+2021-08-30 15:12:48.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336368226
+2021-08-30 15:12:48.241  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336368238
+2021-08-30 15:12:53.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336373226
+2021-08-30 15:12:53.240  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336373237
+2021-08-30 15:12:58.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336378226
+2021-08-30 15:12:58.241  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336378237
+2021-08-30 15:13:03.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336383226
+2021-08-30 15:13:03.241  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336383238
+2021-08-30 15:13:08.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336388226
+2021-08-30 15:13:08.240  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336388237
+2021-08-30 15:13:13.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336393226
+2021-08-30 15:13:13.241  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336393237
+2021-08-30 15:13:18.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336398226
+2021-08-30 15:13:18.241  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336398238
+2021-08-30 15:13:23.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336403226
+2021-08-30 15:13:23.239  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336403236
+2021-08-30 15:13:28.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336408226
+2021-08-30 15:13:28.240  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336408236
+2021-08-30 15:13:33.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336413226
+2021-08-30 15:13:33.243  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336413240
+2021-08-30 15:13:38.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336418226
+2021-08-30 15:13:38.241  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336418238
+2021-08-30 15:13:43.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336423226
+2021-08-30 15:13:43.240  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336423236
+2021-08-30 15:13:48.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336428226
+2021-08-30 15:13:48.240  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336428238
+2021-08-30 15:13:53.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336433226
+2021-08-30 15:13:53.239  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336433237
+2021-08-30 15:13:58.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336438226
+2021-08-30 15:13:58.254  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336438251
+2021-08-30 15:14:03.226  INFO 1 --- [   scheduling-1] de.inovex.kirner.ping.PingService        : Sending IOMessage - timestamp: 1630336443226
+2021-08-30 15:14:03.238  INFO 1 --- [ntLoopGroup-2-1] o.e.iofog.api.listener.IOFogAPIListener  : onMessageReceipt - timestamp: 1630336443235

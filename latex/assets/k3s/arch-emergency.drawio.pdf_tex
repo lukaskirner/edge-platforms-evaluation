@@ -1,0 +1,75 @@
+%% Creator: Inkscape 1.1 (c4e8f9e, 2021-05-24), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'arch-emergency.drawio.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{585.75bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.82074264)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{arch-emergency.drawio.pdf}}%
+    \put(0.26888604,0.68758003){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{emergency-0}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{arch-emergency.drawio.pdf}}%
+    \put(0.26888604,0.57234315){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{emergency-1}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{arch-emergency.drawio.pdf}}%
+    \put(0.26888604,0.45710627){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{emergency-2}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{arch-emergency.drawio.pdf}}%
+    \put(0.57618438,0.30601793){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{redis-master-0}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{arch-emergency.drawio.pdf}}%
+    \put(0.11523688,0.13700384){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{redis-replicas-0}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{arch-emergency.drawio.pdf}}%
+    \put(0.26888604,0.13700384){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{redis-replicas-1}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{arch-emergency.drawio.pdf}}%
+    \put(0.42253521,0.13700384){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{redis-replicas-2}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{arch-emergency.drawio.pdf}}%
+    \put(0.79385403,0.65941101){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}mqtt\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{arch-emergency.drawio.pdf}}%
+    \put(0.04481434,0.80409731){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}emergency\end{tabular}}}}%
+  \end{picture}%
+\endgroup%
